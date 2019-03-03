@@ -1,5 +1,5 @@
 # GISC 425 Emerging Topics in GIScience: Geographical Computing
-Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the python programming language and the python geospatial ecosystem to prepare students for conducting research in this new context.
+Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
 
 ## Important dates
 Item | Dates
@@ -15,7 +15,7 @@ Withdrawal dates | See [Course additions and withdrawals](www.victoria.ac.nz/hom
 If you cannot complete an assignment or sit a test or examination, refer to [Aegrotats](www.victoria.ac.nz/home/study/exams-and-assessments/aegrotat)
 
 ## Lecture and lab schedule
-Lectures are in Cotton 110 at 10AM on Thursdays and will be followed immediately by related lab sessions in the same location. The combined session will last two hours, finishing up before noon.
+Lectures are in Cotton 110 at 10AM on Thursdays and will be followed immediately by related lab sessions in the same location. The combined session will last up to three hours, finishing up before 1PM.
 
 ## Contact details
 ### Lecturer/coordinator
@@ -23,7 +23,7 @@ Lectures are in Cotton 110 at 10AM on Thursdays and will be followed immediately
 **Office** CO227 **Extn.** 6492 **Office hours by appointment** [click here](http://calendly.com/dosullivan)
 
 ### GIS Technician
-**Andrew Rae**
+**[Andrew Rae](mailto:andrew.rae@vuw.ac.nz)**
 **Office** CO502 **Office hours** TBD
 
 ## Lab and lecture timetable
@@ -31,7 +31,7 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 
 Week# | Date | Lecture topic | Lab topic | Notes
 :----:|:---- |:------------- |:--------- |:---
-1 | 7 Mar | Course overview; why python | Getting set up
+1 | 7 Mar | Course overview; why python | [Getting set up](labs/week-1/getting-started.ipynb)
 2 | 14 Mar | Programming 1: variables and operators | **`geopandas`: working with spatial data using code** (5%) | due 20 Mar  
 3 | 21 Mar | Programming 2: functions builtin and user-defined; logic and flow control | **Repetive processing tasks** (10%) | due 27 Mar
 4 | 28 Mar | Programming 3: objects, modules and APIs |  **Reclassify complex landuse data programmatically ** (15%) | due 10 Apr
