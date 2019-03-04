@@ -31,7 +31,7 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 
 Week# | Date | Lecture topic | Lab topic | Notes
 :----:|:---- |:------------- |:--------- |:---
-1 | 7 Mar | Course overview; why python | Introduction to code and [Getting set up](labs/week-1/getting-started.ipynb)
+1 | 7 Mar | Course overview; why python | [Introduction to code and setting up the GISC 425 environment](labs/week-1/week-1-zip)
 2 | 14 Mar | Programming 1: variables and operators | **`geopandas`: working with spatial data using code** (5%) | due 20 Mar  
 3 | 21 Mar | Programming 2: functions builtin and user-defined; logic and flow control | **Repetive processing tasks** (10%) | due 27 Mar
 4 | 28 Mar | Programming 3: objects, modules and APIs |  **Reclassify complex landuse data programmatically ** (15%) | due 10 Apr
