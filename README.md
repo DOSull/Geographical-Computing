@@ -62,7 +62,7 @@ Other useful resources are found online and will be called out in lectures as we
 These are both accessible via a university subscription through the library, and PDFs are purchasable for only US$5.
 
 ## Labs
-Lab sessions follow the lecture sessions and will cover related practical topics. Five sessions have an associated assessed assignment, but you should attend all labs and particpate fully to broaden your knowledge of GIScience methods and tools as any of the approaches covered may prove useful for you in other parts of the program. (Note also that a portion of the course credit is for participation in all aspects of the course.)
+Lab sessions follow the lecture sessions and will cover related practical topics. General directions for the labs are found [here](labs/README.md). Five sessions have an associated assessed assignment, but you should attend all labs and particpate fully to broaden your knowledge of GIScience methods and tools as any of the approaches covered may prove useful for you in other parts of the program. (Note also that a portion of the course credit is for participation in all aspects of the course.)
 
 The final assignment may be organised in pairs or small groups, depending on differing student interests and skillsets.
 
