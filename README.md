@@ -38,7 +38,7 @@ Week# | Date | Lecture topic | Lab topic | Notes
 5 | 4 Apr | Programming 4: thinking computationally | Thought experiment exercise |
 6 | 11 Apr | Digression into web maps | **Generate and customize a web map from multiple data layers** (15%) | due 1 May
 &nbsp; | Trimester break | | |
-7 | 2 May | APIs: Controlling QGIS and Arc with python | **Automate processing tasks in a desktop GIS** (25%) | due 31 May
+7 | 2 May | APIs: Controlling QGIS and Arc with python | **Automate processing tasks in a desktop GIS** (25%) | due 14 Jun
 8 | 9 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
 9 | 16 May | A look at other languages: same only different | `R` `javascript` `java` `netlogo` |
 10 | 23 May | Web scraping | `scrapy` |
