@@ -34,7 +34,7 @@ Week# | Date | Lecture topic | Lab topic | Notes
 1 | 7 Mar | Course overview; why python | [Introduction to code and setting up the GISC 425 environment](labs/week-1/week-1.zip?raw=true)
 2 | 14 Mar | Programming 1: variables and operators | **`geopandas`: working with spatial data using code** (5%) | due 20 Mar  
 3 | 21 Mar | Programming 2: functions builtin and user-defined; logic and flow control | **Repetive processing tasks** (10%) | due 27 Mar
-4 | 28 Mar | Programming 3: objects, modules and APIs |  **Reclassify complex landuse data programmatically ** (15%) | due 10 Apr
+4 | 28 Mar | Programming 3: objects, modules and APIs |  **Reclassify complex landuse data programmatically** (15%) | due 10 Apr
 5 | 4 Apr | Programming 4: thinking computationally | Thought experiment exercise |
 6 | 11 Apr | Digression into web maps | **Generate and customize a web map from multiple data layers** (15%) | due 1 May
 &nbsp; | Trimester break | | |
@@ -71,7 +71,7 @@ Most of the lab work will be completed in [Jupyter Notebook](https://jupyter.org
 
 When we come to the final assignment it will be more effective to work in an *Integrated Development Environment* (IDE) such as [PyCharm](https://www.jetbrains.com/pycharm/) and use a version control tool such as [git](https://git-scm.com/).
 
-All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). If you wish to replicate the lab set up on a personal machine, you can use this [requirements file](other-stuff/gisc425-requirements.yml) along with these instructions to [install the conda virtual environments management tool](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html), and to [create an environment from a file](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). If you wish to replicate the lab set up on a personal machine, you can use this [requirements file](other-stuff/gisc425.yaml) along with these instructions to [install the conda virtual environments management tool](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html), and to [create an environment from a file](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
 ## Course learning objectives (CLOs)
 1. manage, analyse, visualize and present spatial data using a range of programming tools
