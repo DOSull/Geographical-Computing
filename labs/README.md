@@ -1,5 +1,5 @@
 # General instructions for the Labs
-Each week, you should download the associated `week-n.zip` file and extract it to a folder on your computer. In Windows be particularly careful to right-click and extract the files to an actual folder as many version of Windows let you look inside zip archives without actually extracting the files.
+Each week, you should download the associated `week-n.zip` file, **linked from the timetable on the course main page** and extract it to a folder on your computer. In Windows be particularly careful to right-click and extract the files to an actual folder as many version of Windows let you look inside zip archives without actually extracting the files.
 
 Once you have extracted the files, then follow the instructions below as required.
 
