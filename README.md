@@ -31,9 +31,9 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 
 Week# | Date | Lecture topic | Lab topic | Notes
 :----:|:---- |:------------- |:--------- |:---
-1 | 7 Mar | Course overview; why python | [Introduction to code and setting up the GISC 425 environment](labs/week-1/week-1.zip?raw=true)
-2 | 14 Mar | Programming 1: variables and operators | [**`geopandas`: working with spatial data using code**](labs/week-2/week-2.zip?raw=true) (5%) | due 20 Mar  
-3 | 21 Mar | Programming 2: functions builtin and user-defined; logic and flow control | **Repetive processing tasks** (10%) | due 27 Mar
+1 | 7 Mar | Course overview; why python; variables and operators | [Introduction to code and setting up the GISC 425 environment](labs/week-1/week-1.zip?raw=true)
+2 | 14 Mar | [Programming 1: functions and conditionals](https://southosullivan.com/gisc425/functions-and-conditionals/) | [**`geopandas`: working with spatial data using code**](labs/week-2/week-2.zip?raw=true) (5%) | due 20 Mar 
+3 | 21 Mar | Programming 2: flow control and iteration | **Repetive processing tasks** (10%) | due 27 Mar
 4 | 28 Mar | Programming 3: objects, modules and APIs |  **Reclassify complex landuse data programmatically** (15%) | due 10 Apr
 5 | 4 Apr | Programming 4: thinking computationally | Thought experiment exercise |
 6 | 11 Apr | Digression into web maps | **Generate and customize a web map from multiple data layers** (15%) | due 1 May
