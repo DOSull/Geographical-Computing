@@ -71,7 +71,7 @@ Most of the lab work will be completed in [Jupyter Notebook](https://jupyter.org
 
 When we come to the final assignment it will be more effective to work in an *Integrated Development Environment* (IDE) such as [PyCharm](https://www.jetbrains.com/pycharm/) and use a version control tool such as [git](https://git-scm.com/).
 
-All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). If you wish to replicate the lab set up on a personal machine, follow [these instructions](labs/week-1/labs/week-1/setting-up-the-gisc-425-environment.ipynb).
+All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). If you wish to replicate the lab set up on a personal machine, follow [these instructions](labs/week-1/setting-up-the-gisc-425-environment.ipynb).
 
 ## Course learning objectives (CLOs)
 1. manage, analyse, visualize and present spatial data using a range of programming tools
