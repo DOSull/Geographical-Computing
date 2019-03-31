@@ -62,7 +62,7 @@ Other useful resources are found online and will be called out in lectures as we
 These are both accessible via a university subscription through the library, and PDFs are purchasable for only US$5.
 
 ## Labs
-Lab sessions follow the lecture sessions and will cover related practical topics. General directions for the labs are found [here](labs/README.md). Five sessions have an associated assessed assignment, but you should attend all labs and particpate fully to broaden your knowledge of GIScience methods and tools as any of the approaches covered may prove useful for you in other parts of the program. (Note also that a portion of the course credit is for participation in all aspects of the course.)
+Lab sessions follow the lecture sessions and will cover related practical topics. General directions for the labs are found [here](labs/README.md). Five sessions have an associated assessed assignment, but you should attend all labs and participate fully to broaden your knowledge of GIScience methods and tools as any of the approaches covered may prove useful for you in other parts of the program. (Note also that a portion of the course credit is for participation in all aspects of the course.)
 
 The final assignment may be organised in pairs or small groups, depending on differing student interests and skillsets.
 
@@ -71,7 +71,7 @@ Most of the lab work will be completed in [Jupyter Notebook](https://jupyter.org
 
 When we come to the final assignment it will be more effective to work in an *Integrated Development Environment* (IDE) such as [PyCharm](https://www.jetbrains.com/pycharm/) and use a version control tool such as [git](https://git-scm.com/).
 
-All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). If you wish to replicate the lab set up on a personal machine, you can use this [requirements file](other-stuff/gisc425.yaml) along with these instructions to [install the conda virtual environments management tool](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html), and to [create an environment from a file](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). If you wish to replicate the lab set up on a personal machine, follow [these instructions](labs/week-1/labs/week-1/setting-up-the-gisc-425-environment.ipynb).
 
 ## Course learning objectives (CLOs)
 1. manage, analyse, visualize and present spatial data using a range of programming tools
