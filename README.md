@@ -35,7 +35,7 @@ Week# | Date | Lecture topic | Lab topic | Notes
 2 | 14 Mar | [Programming 1: functions and conditionals](https://southosullivan.com/gisc425/functions-and-conditionals/) | [**`geopandas`: working with spatial data using code**](labs/week-2/week-2.zip?raw=true) (5%) | due 20 Mar
 3 | 21 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](labs/week-3/week-3.zip?raw=true) (10%) | due 27 Mar
 4 | 28 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-4/week-4.zip?raw=true) (15%) | due 10 Apr
-5 | 4 Apr | Programming 4: Objects and APIs; thinking computationally | Thought experiment exercise |
+5 | 4 Apr | Programming 4: [Objects and APIs](labs/week-5/object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
 6 | 11 Apr | Digression into web maps | **Generate and customize a web map from multiple data layers** (15%) | due 1 May
 &nbsp; | Trimester break | | |
 7 | 2 May | APIs: Controlling QGIS and Arc with python | **Automate processing tasks in a desktop GIS** (25%) | due 14 Jun
