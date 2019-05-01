@@ -38,7 +38,7 @@ Week# | Date | Lecture topic | Lab topic | Notes
 5 | 4 Apr | Programming 4: [Objects and APIs](labs/week-5/object-orientation.ipynb); [thinking algorithmically](https://www.youtube.com/watch?v=k2AqGongii0) | Thought experiment exercise |
 6 | 11 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/week-6/week-6.zip?raw=true) (15%) | due 8 May
 &nbsp; | Trimester break | | |
-7 | 2 May | APIs: Controlling QGIS and Arc with python | **Automate processing tasks in a desktop GIS** (25%) | due 14 Jun
+7 | 2 May | Introducing some potential project topics | [**Final programming project**](labs/week-7/longer-project-ideas-and-scope.md) (25%) | due 14 Jun
 8 | 9 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
 9 | 16 May | A look at other languages: same only different | `R` `javascript` `java` `netlogo` |
 10 | 23 May | Web scraping | `scrapy` |
