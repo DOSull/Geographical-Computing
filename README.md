@@ -40,7 +40,7 @@ Week# | Date | Lecture topic | Lab topic | Notes
 &nbsp; | Trimester break | | |
 7 | 2 May | Introducing some potential project topics | [**Final programming project**](labs/week-7/longer-project-ideas-and-scope.md) (25%) | due 14 Jun
 8 | 9 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
-9 | 16 May | A look at other languages: same only different | `R` `javascript` `java` `netlogo` |
+9 | 16 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
 10 | 23 May | Web scraping | `scrapy` |
 11 | 30 May | PostGreSQL and PostGIS | Support on final lab |
 12 | 6 Jun | Course review | **In class test** (30%)
