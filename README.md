@@ -89,7 +89,7 @@ Assessment item | Credit | Due date | CLOs
 Repetive processing tasks | 10% | 27 March | 2 3
 Reclassify complex landuse data programmatically | 15% | 10 April | 1 3
 Generate and customize a web map from multiple data layers | 15% | 31 May | 2 4
-Automate processing tasks in a desktop GIS | 25% | 31 May | 1 2 3 4
+Programming mini-project | 25% | 14 June | 1 2 3 4
 In class test | 30% | 6 June | 5
 
 Assessments are submitted electronically via dropbox on [Blackboard](https://blackboard.vuw.ac.nz/). I will aim to return coursework within 3 weeks. Extensions should be requested from the SGEES administration office. If you anticipate problems come and talk to me.
