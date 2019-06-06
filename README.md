@@ -43,7 +43,7 @@ Week# | Date | Lecture topic | Lab topic | Notes
 9 | 16 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
 10 | 23 May | Instructor out of town | Work on projects |
 11 | 30 May | Web scraping | [`BeautifulSoup`](labs/week-11/web-scraping-in-python.ipynb) |
-12 | 6 Jun | Course review | [**In class test**](in-class-test/gisc425-in-class-test.zip?raw=true) (30%)
+12 | 6 Jun | Course review | **In class test** (30%)
 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
