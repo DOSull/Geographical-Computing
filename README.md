@@ -1,13 +1,19 @@
 # GISC 425 Emerging Topics in GIScience: Geographical Computing
 Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
 
+<hr>
+
+## WARNING!
+**You are welcome to read ahead in the course materials. However, note that updating materials to 2020 versions is an ongoing process. Do not submit assignments unless you are sure you are working from the 2020 version! Assignment pages will carry a disclaimer, until they have been updated.**
+<hr>
+
 ## Important dates
 Item | Dates
  -: | :-
-Trimester | 4 March to 29 June 2019
-Teaching period | 4 March to 7 June 2019
-Mid-trimester break | 15 April to 29 April 2019
-Last assessment item due | 14 June 2019
+Trimester | 2 March to 27 June 2020
+Teaching period | 2 March to 5 June 2020
+Mid-trimester break | 13 April to 27 April 2020
+Last assessment item due | 12 June 2020
 Study period | NA
 Examination period | NA
 Withdrawal dates | See [Course additions and withdrawals](www.victoria.ac.nz/home/admisenrol/payments/withdrawalsrefunds)
@@ -15,7 +21,7 @@ Withdrawal dates | See [Course additions and withdrawals](www.victoria.ac.nz/hom
 If you cannot complete an assignment or sit a test or examination, refer to [Aegrotats](www.victoria.ac.nz/home/study/exams-and-assessments/aegrotat)
 
 ## Lecture and lab schedule
-Lectures are in Cotton 110 at 10AM on Thursdays and will be followed immediately by related lab sessions in the same location. The combined session will last up to three hours, finishing up before 1PM.
+Lectures are in Cotton 110 at 9AM on Thursdays and will be followed immediately by related lab sessions in the same location. The combined session will last up to three hours, finishing before noon.
 
 ## Contact details
 ### Lecturer/coordinator
@@ -31,19 +37,19 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 
 Week# | Date | Lecture topic | Lab topic | Notes
 :----:|:---- |:------------- |:--------- |:---
-1 | 7 Mar | Course overview; why python; variables and operators | [Introduction to code and setting up the GISC 425 environment](labs/week-1/week-1.zip?raw=true)
-2 | 14 Mar | [Programming 1: functions and conditionals](https://southosullivan.com/gisc425/functions-and-conditionals/) | [**`geopandas`: working with spatial data using code**](labs/week-2/week-2.zip?raw=true) (5%) | due 20 Mar
-3 | 21 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](labs/week-3/week-3.zip?raw=true) (10%) | due 27 Mar
-4 | 28 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-4/week-4.zip?raw=true) (15%) | due 10 Apr
-5 | 4 Apr | Programming 4: [Objects and APIs](labs/week-5/object-orientation.ipynb); [thinking algorithmically](https://www.youtube.com/watch?v=k2AqGongii0) | Thought experiment exercise |
-6 | 11 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/week-6/week-6.zip?raw=true) (15%) | due 8 May
+1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to code and setting up the GISC 425 environment](labs/week-1/week-1.zip?raw=true)
+2 | 12 Mar | [Programming 1: functions and conditionals](https://southosullivan.com/gisc425/functions-and-conditionals/) | [**`geopandas`: working with spatial data using code**](labs/week-2/week-2.zip?raw=true) (5%) | due 18 Mar
+3 | 19 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](labs/week-3/week-3.zip?raw=true) (10%) | due 25 Mar
+4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-4/week-4.zip?raw=true) (15%) | due 8 Apr
+5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-5/object-orientation.ipynb); [thinking algorithmically](https://www.youtube.com/watch?v=k2AqGongii0) | Thought experiment exercise |
+6 | 9 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/week-6/week-6.zip?raw=true) (15%) | due 6 May
 &nbsp; | Trimester break | | |
-7 | 2 May | Introducing some potential project topics | [**Final programming project**](labs/week-7/longer-project-ideas-and-scope.md) (25%) | due 14 Jun
-8 | 9 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
-9 | 16 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
-10 | 23 May | Instructor out of town | Work on projects |
-11 | 30 May | Web scraping | [`BeautifulSoup`](labs/week-11/web-scraping-in-python.ipynb) |
-12 | 6 Jun | Course review | **In class test** (30%)
+7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-7/longer-project-ideas-and-scope.md) (25%) | due 12 Jun
+8 | 7 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
+9 | 14 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
+10 | 21 May | Instructor out of town | Work on projects |
+11 | 28 May | Web scraping | [`BeautifulSoup`](labs/week-11/web-scraping-in-python.ipynb) |
+12 | 4 Jun | Course review | **In class test** (30%)
 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
@@ -69,9 +75,9 @@ The final assignment may be organised in pairs or small groups, depending on dif
 ### Software
 Most of the lab work will be completed in [Jupyter Notebook](https://jupyter.org/) or similar [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) environments. These are good for incrementally becoming accustomed to code, then writing small amounts of code, building up to writing more extensive blocks of code.
 
-When we come to the final assignment it will be more effective to work in an *Integrated Development Environment* (IDE) such as [PyCharm](https://www.jetbrains.com/pycharm/) and use a version control tool such as [git](https://git-scm.com/).
+When we come to the final assignment it may be more effective to work in an *Integrated Development Environment* (IDE) such as [VSCode](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/) and use a version control tool such as [git](https://git-scm.com/).
 
-All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). If you wish to replicate the lab set up on a personal machine, follow [these instructions](labs/week-1/setting-up-the-gisc-425-environment.ipynb).
+All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms).
 
 ## Course learning objectives (CLOs)
 1. manage, analyse, visualize and present spatial data using a range of programming tools
@@ -85,12 +91,12 @@ This course is 100% internally assessed.  Assessment is based on four lab assign
 
 Assessment item | Credit | Due date | CLOs
 :- | :-: | :-: | :-:
-`geopandas`: working with spatial data using code | 5% | 20 March | 1 2 3
-Repetive processing tasks | 10% | 27 March | 2 3
-Reclassify complex landuse data programmatically | 15% | 10 April | 1 3
-Generate and customize a web map from multiple data layers | 15% | 31 May | 2 4
-Programming mini-project | 25% | 14 June | 1 2 3 4
-In class test | 30% | 6 June | 5
+`geopandas`: working with spatial data using code | 5% | 18 March | 1 2 3
+Repetive processing tasks | 10% | 25 March | 2 3
+Reclassify complex landuse data programmatically | 15% | 8 April | 1 3
+Generate and customize a web map from multiple data layers | 15% | 6 May | 2 4
+Programming mini-project | 25% | 12 June | 1 2 3 4
+In class test | 30% | 4 June | 5
 
 Assessments are submitted electronically via dropbox on [Blackboard](https://blackboard.vuw.ac.nz/). I will aim to return coursework within 3 weeks. Extensions should be requested from the SGEES administration office. If you anticipate problems come and talk to me.
 
