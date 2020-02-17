@@ -35,20 +35,20 @@ Lectures are in Cotton 110 at 9AM on Thursdays and will be followed immediately 
 ## Lab and lecture timetable
 Here's the trimester schedule we will aim to follow. **Bolded labs** have an associated assignment that must be submitted and contributes the indicated percentage of the course credit.  Relevant materials (lecture slides, lab scripts and datasets) are linked below, when available.
 
-Week# | Date | Lecture topic | Lab topic | Notes
+Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
-1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to code and setting up the GISC 425 environment](labs/week-1/week-1.zip?raw=true)
-2 | 12 Mar | [Programming 1: functions and conditionals](https://southosullivan.com/gisc425/functions-and-conditionals/) | [**`geopandas`: working with spatial data using code**](labs/week-2/week-2.zip?raw=true) (5%) | due 18 Mar
+1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/week-1/week-1-overview.md)
+2 | 12 Mar | [Programming 1: functions and conditionals](https://southosullivan.com/gisc425/functions-and-conditionals/) | [**`geopandas`: working with spatial data using code**](labs/week-1/week-1.zip?raw=true) (5%) | due 18 Mar
 3 | 19 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](labs/week-3/week-3.zip?raw=true) (10%) | due 25 Mar
-4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-4/week-4.zip?raw=true) (15%) | due 8 Apr
-5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-5/object-orientation.ipynb); [thinking algorithmically](https://www.youtube.com/watch?v=k2AqGongii0) | Thought experiment exercise |
-6 | 9 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/week-6/week-6.zip?raw=true) (15%) | due 6 May
+4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/README.md) (15%) | due 8 Apr
+5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-5/object-orientation.ipynb); [thinking algorithmically](README.md) | Thought experiment exercise |
+6 | 9 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/README.md) (15%) | due 6 May
 &nbsp; | Trimester break | | |
-7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-7/longer-project-ideas-and-scope.md) (25%) | due 12 Jun
+7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/README.md) (25%) | due 12 Jun
 8 | 7 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
 9 | 14 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
 10 | 21 May | Instructor out of town | Work on projects |
-11 | 28 May | Web scraping | [`BeautifulSoup`](labs/week-11/web-scraping-in-python.ipynb) |
+11 | 28 May | Web scraping | [`BeautifulSoup`](labs/README.md) |
 12 | 4 Jun | Course review | **In class test** (30%)
 
 ## Lectures
