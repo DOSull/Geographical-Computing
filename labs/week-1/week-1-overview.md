@@ -1,9 +1,8 @@
 # Introduction to notebooks and Python basics
-This week we have ~five~ four notebooks to explore. One of them is this one.
+This week we have ~five~ ~four~ three instruction sets to explore. One of them is this one.
 
-The three important ones are
+The two important ones are
 
-+ [An introduction to the notebook environment](intro-to-notebooks.md)
 + [Arithmetic, values and types](arithmetic-values-and-types.md)
 + [Variables, expressions and statements](variables-expressions-and-statements.md)
 
