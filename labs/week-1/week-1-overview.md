@@ -1,4 +1,4 @@
-# Introduction to notebooks and Python basics
+# Introduction to Python basics
 This week we have ~five~ ~four~ three instruction sets to explore. One of them is this one.
 
 The two important ones are
@@ -6,7 +6,7 @@ The two important ones are
 + [Arithmetic, values and types](arithmetic-values-and-types.md)
 + [Variables, expressions and statements](variables-expressions-and-statements.md)
 
-You should work through these in order, to get familiar with the environment, and begin to get a feel for Python code, what it looks like, and some basic aspects of its behaviour.
+You should work through these in order, to begin to get a feel for Python code, what it looks like, and some basic aspects of its behaviour. It is a good idea in general to work through material in the _Diving Into Python_ book in this way. It's a much better way to learn than just reading.
 
 
 #### Deprecated (no longer relevant)
