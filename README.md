@@ -38,17 +38,17 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/week-1/week-1-overview.md)
-2 | 12 Mar | [Programming 1: functions and conditionals](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-02) | [**`geopandas`: working with spatial data using code**](labs/week-1/week-1.zip?raw=true) (5%) | due 18 Mar
-3 | 19 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-03) (10%) | due 25 Mar
-4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-04) (15%) | due 8 Apr
-5 | 2 Apr | Programming 4: [Objects and APIs](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-05); thinking algorithmically | Thought experiment exercise |
-6 | 9 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-06) (15%) | due 6 May
+2 | 12 Mar | [Programming 1: functions and conditionals](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-02) | [**`geopandas`: working with spatial data using code**](labs/week-2/week-2.zip?raw=true) (5%) | due 18 Mar
+3 | 19 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](labs/week-3/week-3.zip?raw=true) (10%) | due 25 Mar
+4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-4/week-4.zip?raw=true) (15%) | due 8 Apr
+5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-5/object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
+6 | 9 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/week-6/week-6.zip?raw=true) (15%) | due 6 May
 &nbsp; | Trimester break | | |
 7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-7/longer-project-ideas-and-scope.md) (25%) | due 12 Jun
 8 | 7 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
 9 | 14 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
 10 | 21 May | Instructor out of town | Work on projects |
-11 | 28 May | Web scraping | [`BeautifulSoup`](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-11) |
+11 | 28 May | Web scraping | [`BeautifulSoup`](labs/week-11/web-scraping-in-python.ipynb) |
 12 | 4 Jun | Course review | **In class test** (30%)
 
 ## Lectures
