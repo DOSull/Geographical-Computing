@@ -1,3 +1,4 @@
+#### GISC 425 T1 2020
 # Introduction to Python basics
 This week we have four instruction sets to explore. One of them is this one, so three more to go.
 

@@ -1,3 +1,4 @@
+#### GISC 425 T1 2020
 # Variables, expressions and statements
 A *variable* in Python is a name that we associate with a value. We do this by *assigning* the value to a name using the `=` operator.
 
@@ -49,7 +50,7 @@ Variable names can't have any spaces
 
 
 ```python
-my variable = 'twenty seven' 
+my variable = 'twenty seven'
 ```
 
 Instead of spaces, it is common to use underscores
@@ -142,7 +143,7 @@ To change evaluation order, we can put parentheses in different places
 
 
 ```python
-(3 + 4) * (5 - 8) / 4 
+(3 + 4) * (5 - 8) / 4
 ```
 
 

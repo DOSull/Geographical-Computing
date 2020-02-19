@@ -1,10 +1,11 @@
+#### GISC 425 T1 2020
 # GISC 425 Emerging Topics in GIScience: Geographical Computing
 Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
 
 <hr>
 
 ## WARNING!
-**You are welcome to read ahead in the course materials. However, note that updating materials to 2020 versions is an ongoing process. Do not submit assignments unless you are sure you are working from the 2020 version! Assignment pages will carry a disclaimer, until they have been updated.**
+**You are welcome to read ahead in the course materials. However, note that updating materials to 2020 versions is an ongoing process. Do not submit assignments unless you are sure you are working from the 2020 version! Most pages are marked with a warning like this one, and a tag at the top showing the year they are current for. For lab materials, only those with linked zip files available in the timetable below are fully up to date.
 <hr>
 
 ## Important dates
