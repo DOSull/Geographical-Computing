@@ -12,10 +12,11 @@ We will be using some different things as the course progresses. Follow the rele
       idle
 + In IDLE start typing python commands per the instructions.
 
-## Week 2 and subsequent weeks
+## Weeks 2 to 6
 Each week, you should download the associated `week-n.zip` file, **linked from the timetable on the course main page** and extract it to a folder on your computer. In Windows be particularly careful to right-click and extract the files to an actual folder as many version of Windows let you look inside zip archives without actually extracting the files.
 
 Once you have extracted the files, then follow the instructions below as required.
+
 ### On *Windows*
 + Open the **Anaconda Prompt**.
 + Navigate to the folder where you extracted the files. First you may need to change disk, by typing `D:` or `H:` or whatever. Then you need to type `cd <path-to-your-files>` where *path-to-your-files* is the directory you extracted the files.
@@ -35,6 +36,9 @@ Here it is assumed you have followed instructions on [this page](week-1/setting-
       conda activate g425
 + Run Jupyter notebook by typing
       jupyter notebook
+
+# Weeks 7 and 11
+Click through to that week's material from the front page.
 
 ## Even more subsequent weeks
 We will look at working in an Integrated Development Environment after the semester break.

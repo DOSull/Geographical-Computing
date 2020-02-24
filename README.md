@@ -49,7 +49,7 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 8 | 7 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
 9 | 14 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
 10 | 21 May | Instructor out of town | Work on projects |
-11 | 28 May | Web scraping | [`BeautifulSoup`](labs/week-11/web-scraping-in-python.ipynb) |
+11 | 28 May | Web scraping | [`BeautifulSoup`](labs/week-11/web-scraping-in-python.ipynb?raw=true) |
 12 | 4 Jun | Course review | **In class test** (30%)
 
 ## Lectures
