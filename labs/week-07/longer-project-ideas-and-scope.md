@@ -1,7 +1,7 @@
 #### GISC 425 T1 2019
 # The 'big' assignment: ideas and scope
 ## A list of topic ideas
-Here are some topic ideas to consider and discuss. To begin, don't worry too much about *how* think more about how much you are interested (or not) in each one. Alternatively think up an ](#your-idea-here)) to work on.
+Here are some topic ideas to consider and discuss. To begin, don't worry too much about *how* think more about how much you are interested (or not) in each one. Alternatively think up an [idea of your own](#your-idea-here)) to work on.
 
 ### Isochrones
 Have a look at [this website](https://mapnificent.net), which enables you to generate public transport isochrones for a chosen location in many major cities (including Wellington, although I don't know if it has tried using the buses lately...).  You could also read [my masters dissertation](http://southosullivan.com/msc/mastersThesis.pdf) or [this paper](https://dx.doi.org/10.1080/136588100240976) I wrote based on it.
