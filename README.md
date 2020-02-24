@@ -38,7 +38,7 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 
 Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
-1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/week-01/week-1-overview.md)
+1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/week-01/README.md)
 2 | 12 Mar | [Programming 1: functions and conditionals](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-02) | [**`geopandas`: working with spatial data using code**](labs/week-02/week-02.zip?raw=true) (5%) | due 18 Mar
 3 | 19 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](labs/week-03/week-03.zip?raw=true) (10%) | due 25 Mar
 4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 8 Apr
