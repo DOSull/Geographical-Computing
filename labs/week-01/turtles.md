@@ -5,6 +5,11 @@ Right. So the API documentation for `turtle` is available [here](https://docs.py
 For now, I am going to provide a supplement to Chapter 4 in [_Think Python_](https://greenteapress.com/wp/think-python-2e/).
 
 ## The `turtle` module
+Before we start we have to import the `turtle` module.
+```python
+import turtle
+```
+
 To 'fire it up' we make a turtle. We'll call ours something more local.
 
 
@@ -41,21 +46,11 @@ aroha.reset()
 ```
 
 ## Simple repetition
-So... in the cell below right some code to make `aroha` draw a square.
-
-
-```python
-# Write code below to make aroha draw a square
-# You will need the Turtle(), fd(), and rt() functions
-# Take another look at the cells above if you are unsure what to do
-
-
-```
+So... using what you already know, make `aroha` draw a square.
 
 The book tells you what you most likely wrote. It probably involved some repetition, which even allowing for copy and paste is pretty tedious to deal with.
 
 Thankfully, much of programming is all about repetition, so we have a construct in Python that allows us to repeat actions many times. For example
-
 
 ```python
 # Simple repetition
@@ -72,7 +67,7 @@ With that in mind, rewrite your square drawing code to use a `for` loop.
 ```
 
 ## Exercises from section 4.3
-These are taken directly from _Think Python_. In each case write the code in the cell below the instructions.
+These are taken directly from _Think Python_. They won't make much sense this week (we get to functions next week), but it is worth revisiting them in the next while as you learn more about the python programming language.
 
 1. Write a function called `square` that takes a parameter named `t`, which is a turtle. It should use the turtle to draw a square.
 
@@ -113,33 +108,20 @@ exterior angles of an n-sided regular polygon are 360/n degrees.
 
 ### The next two are optional for now
 
-4. Write a function called circle that takes a turtle, t , and radius, r , as parameters and
+4. Write a function called `circle()` that takes a turtle, `t` , and radius, `r` , as parameters and
 that draws an approximate circle by calling polygon with an appropriate length and
-number of sides. Test your function with a range of values of r .
+number of sides. Test your function with a range of values of `r` .
 Hint: figure out the circumference of the circle and make sure that length * n =
 circumference .
 
-
-```python
-
-```
-
-5. Make a more general version of circle called arc that takes an additional parameter
-angle , which determines what fraction of a circle to draw. angle is in units of degrees,
-so when angle=360 , arc should draw a complete circle.
+5. Make a more general version of circle called `arc()` that takes an additional parameter
+angle , which determines what fraction of a circle to draw. `angle` is in units of degrees,
+so when `angle=360`, `arc` should draw a complete circle.
 
 ## Read the book!
-The book spells out nicely how to complete these tasks in sections 4.4 to 4.7 and I suggest that you work through those while working on this notebook.
+The book spells out nicely how to complete these tasks in sections 4.4 to 4.7 and I suggest that you work through those while working on this material.
 
 ## Clean up
-I haven't quite figured out how to clean up after the `turtle` module. The cell below should work, but may still require you to 'X' out of the graphics window.
-
-
+To clear the graphics window:
 ```python
 turtle.done()
-```
-
-
-```python
-
-```

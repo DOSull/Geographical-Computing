@@ -112,7 +112,7 @@ and `print()` statements
 
 
 ```python
-print('this is a statement')
+print('this is a string, printed by a statement')
 ```
 
 Note that a statement doesn't necessarily produce an effect that you can see. The statement `y = 19` above assigned the value 19 to the variable `y`, but we can't tell that anything happened, unless we ask for the value of `y`
@@ -124,6 +124,8 @@ y
 
 ### Order of evaluation in expressions
 Like most programming languages, to avoid ambiguity Python has a priority order in which it evaluates operations in an expression.  Anything inside parentheses is evaluated first. Next comes any exponentiation (i.e., raising things to a power), then multiplication, division, addition and subtraction.
+
+You may see this order referred to as **PEMDAS** for **p**arenetheses, **e**xponentiation, **m**ultiplication, **d**ivision, **a**ddition, **s**ubtraction, but this isn't particularly helpful to remember, as in other places it is called **BEDMAS** for **b**rackets, and the rest the same but slightly changed!
 
 Based on this see if you can figure out, before running them, what the cell below will evaluate to.
 
