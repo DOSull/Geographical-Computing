@@ -60,12 +60,6 @@ for i in range(4):
 
 With that in mind, rewrite your square drawing code to use a `for` loop.
 
-
-```python
-# Write code here using a for loop to make aroha draw a square
-
-```
-
 ## Exercises from section 4.3
 These are taken directly from _Think Python_. They won't make much sense this week (we get to functions next week), but it is worth revisiting them in the next while as you learn more about the python programming language.
 
