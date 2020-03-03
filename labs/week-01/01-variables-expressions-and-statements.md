@@ -7,7 +7,7 @@ room = "Cotton 110"
 gravity = 9.8
 ```
 
-Where did those values go? To retrieve, we just ask Python for the values back again using their names.
+Where did those values go? To retrieve them, we just ask Python for the values back again using their names.
 ```python
 x
 ```
