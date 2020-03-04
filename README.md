@@ -39,11 +39,11 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/week-01/README.md)
-2 | 12 Mar | [Programming 1: functions and conditionals](https://notebooks.azure.com/david-osullivan/projects/gisc-425-week-02) | [**`geopandas`: working with spatial data using code**](labs/week-02/week-02.zip?raw=true) (5%) | due 18 Mar
-3 | 19 Mar | [Programming 2: flow control and iteration](https://southosullivan.com/gisc425/loops-and-sequences/) | [**Repetive tasks and collections**](labs/week-03/week-03.zip?raw=true) (10%) | due 25 Mar
+2 | 12 Mar | [Programming 1: functions and conditionals](labs/week-02/00-week-2-overview.ipynb) | [**`geopandas`: working with spatial data using code**](labs/week-02/week-02.zip?raw=true) (5%) | due 18 Mar
+3 | 19 Mar | [Programming 2: flow control and iteration](labs/week-03/00-week-3-overview.ipynb) | [**Repetive tasks and collections**](labs/week-03/week-03.zip?raw=true) (10%) | due 25 Mar
 4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 8 Apr
-5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-05/object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
-6 | 9 Apr | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 6 May
+5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
+6 | 9 Apr | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 6 May
 &nbsp; | Trimester break | | |
 7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (25%) | due 12 Jun
 8 | 7 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
