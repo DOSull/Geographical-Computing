@@ -45,12 +45,12 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
 6 | 9 Apr | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 6 May
 &nbsp; | Trimester break | | |
-7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (25%) | due 12 Jun
+7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (30%) | due 12 Jun
 8 | 7 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
 9 | 14 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
 10 | 21 May | Instructor out of town | Work on projects |
 11 | 28 May | Web scraping | [`BeautifulSoup`](labs/week-11/week-11.zip?raw=true) |
-12 | 4 Jun | Course review | **In class test** (30%)
+12 | 4 Jun | Course review | **In class test** (25%)
 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
@@ -96,8 +96,8 @@ Assessment item | Credit | Due date | CLOs
 Repetive processing tasks | 10% | 25 March | 2 3
 Reclassify complex landuse data programmatically | 15% | 8 April | 1 3
 Generate and customize a web map from multiple data layers | 15% | 6 May | 2 4
-Programming mini-project | 25% | 12 June | 1 2 3 4
-In class test | 30% | 4 June | 5
+Programming mini-project | 30% | 12 June | 1 2 3 4
+In class test | 25% | 4 June | 5
 
 Assessments are submitted electronically via dropbox on [Blackboard](https://blackboard.vuw.ac.nz/). I will aim to return coursework within 3 weeks. Extensions should be requested from the SGEES administration office. If you anticipate problems come and talk to me.
 
