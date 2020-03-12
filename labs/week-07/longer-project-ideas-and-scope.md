@@ -35,6 +35,8 @@ Note that cartograms don't have to use hexagons, although many do.
 ### Visibility graphs
 Visibility graphs are networks where nodes represent locations or objects, and edges exist between the nodes if they are mutually visible. I did some early work on this [years ago](https://www.tandfonline.com/doi/pdf/10.1080/13658810151072859?needAccess=true) (sensing a theme here?).
 
+### Accessibility measures
+
 ### Your idea here
 Something completely different!
 
