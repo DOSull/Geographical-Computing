@@ -1,8 +1,8 @@
 # Hangman script to demonstrate conditionals
 #
 # David O'Sullivan
-# SGES U Auckland
-# March 2005
+# Originally written March 2005
+# Lightly modified several times since
 
 # Updated to Python 3 March 2019
 
@@ -43,8 +43,8 @@ while True:
     # Greet the player and tell them what to do
     print("\nI'm thinking of a word.  You have " + str(max_guesses) \
      + " wrong guesses to get all its letters.\nI'll let you know when you " \
-     + "guess a letter right.  You can enter more than one letter each time. \
-     + Enter * to end.\n\nThe word looks like this:\n\n\t" \
+     + "guess a letter right.  You can enter more than one letter each time. " \
+     + "Enter * to end.\n\nThe word looks like this:\n\n\t" \
      + user_word + '\n')
 
     while True:
