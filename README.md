@@ -5,6 +5,9 @@ Recent years have seen the (re)emergence of programmatic approaches to geographi
 ## Link to zoom meetings of this class
 [https://vuw.zoom.us/j/218099130](https://vuw.zoom.us/j/218099130)
 
+## Link to video segments from the zoom meetings
+[https://southosullivan.com/gisc425/videos/](https://southosullivan.com/gisc425/videos/)
+
 ## Important dates
 Item | Dates
  -: | :-
