@@ -2,6 +2,9 @@
 # GISC 425 Emerging Topics in GIScience: Geographical Computing
 Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
 
+# Important!
+**Details of deadlines and scheduled meetings on this page should be treated as provisional and subject to change until you hear from the course coordinator via Blackboard that they are final. This is due to reorganisation in response to the COVID-19 crisis.**
+
 ## Link to zoom meetings of this class
 [https://vuw.zoom.us/j/218099130](https://vuw.zoom.us/j/218099130)
 
@@ -11,10 +14,11 @@ Recent years have seen the (re)emergence of programmatic approaches to geographi
 ## Important dates
 Item | Dates
  -: | :-
-Trimester | 2 March to 27 June 2020
-Teaching period | 2 March to 5 June 2020
-Mid-trimester break | 13 April to 27 April 2020
-Last assessment item due | 12 June 2020
+Trimester | 2 March to 26 June 2020
+Teaching period | 2 March to 26 June 2020
+University shutdown | 24 March to 27 April2020
+Mid-trimester break | NA
+Last assessment item due (in this class) | 26 June 2020
 Study period | NA
 Examination period | NA
 Withdrawal dates | See [Course additions and withdrawals](www.victoria.ac.nz/home/admisenrol/payments/withdrawalsrefunds)
@@ -40,17 +44,17 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/week-01/README.md)
 2 | 12 Mar | [Programming 1: functions and conditionals](labs/week-02/00-week-2-overview.ipynb) | [**`geopandas`: working with spatial data using code**](labs/week-02/week-02.zip?raw=true) (5%) | due 18 Mar
-3 | 19 Mar | [Programming 2: flow control and iteration](labs/week-03/00-week-3-overview.ipynb) | [**Repetive tasks and collections**](labs/week-03/week-03.zip?raw=true) (10%) | due 25 Mar
-4 | 26 Mar | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 8 Apr
-5 | 2 Apr | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
-6 | 9 Apr | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 6 May
-&nbsp; | Trimester break | | |
-7 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (30%) | due 12 Jun
-8 | 7 May | Beyond notebooks: virtual environments, IDEs and version control | Hands on with `conda`, `git`, and an IDE |  
-9 | 14 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `R` `javascript` `java` `netlogo` |
-10 | 21 May | Instructor out of town | Work on projects |
-11 | 28 May | Web scraping | [`BeautifulSoup`](labs/week-11/week-11.zip?raw=true) |
-12 | 4 Jun | Course review | **In class test** (25%)
+3 | 19 Mar | [Programming 2: flow control and iteration](labs/week-03/00-week-3-overview.ipynb) | [**Repetive tasks and collections**](labs/week-03/week-03.zip?raw=true) (10%) | due 29 Apr
+| | **COVID-19 [ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
+4 | 30 Apr | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 6 May
+5 | 7 May | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 20 May
+6 | 14 May | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
+7 | 21 May | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
+8 | 28 May | Beyond notebooks: virtual environments, IDEs and version control | Work on projects |  
+9 | 4 Jun | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
+10 | 11 Jun | Lab only | Work on projects |
+11 | 18 Jun | Course review | **In class test** (25%)
+12 | 25 Jun | Web scraping | [`BeautifulSoup`](labs/week-11/week-11.zip?raw=true) |
 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
@@ -93,11 +97,11 @@ This course is 100% internally assessed.  Assessment is based on four lab assign
 Assessment item | Credit | Due date | CLOs
 :- | :-: | :-: | :-:
 `geopandas`: working with spatial data using code | 5% | 18 March | 1 2 3
-Repetive processing tasks | 10% | 25 March | 2 3
-Reclassify complex landuse data programmatically | 15% | 8 April | 1 3
-Generate and customize a web map from multiple data layers | 15% | 6 May | 2 4
+Repetive processing tasks | 10% | 29 April | 2 3
+Reclassify complex landuse data programmatically | 15% | 6 May | 1 3
+Using `geopandas` as a GIS | 15% | 20 May | 2 4
 Programming mini-project | 30% | 12 June | 1 2 3 4
-In class test | 25% | 4 June | 5
+In class test | 25% | 18 June | 5
 
 Assessments are submitted electronically via dropbox on [Blackboard](https://blackboard.vuw.ac.nz/). I will aim to return coursework within 3 weeks. Extensions should be requested from the SGEES administration office. If you anticipate problems come and talk to me.
 
