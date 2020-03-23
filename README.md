@@ -45,7 +45,7 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/week-01/README.md)
 2 | 12 Mar | [Programming 1: functions and conditionals](labs/week-02/00-week-2-overview.ipynb) | [**`geopandas`: working with spatial data using code**](labs/week-02/week-02.zip?raw=true) (5%) | due 18 Mar
 3 | 19 Mar | [Programming 2: flow control and iteration](labs/week-03/00-week-3-overview.ipynb) | [**Repetive tasks and collections**](labs/week-03/week-03.zip?raw=true) (10%) | due 29 Apr
-| | **COVID-19 [ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
+| | **COVID-19** | **[ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
 4 | 30 Apr | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 6 May
 5 | 7 May | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 20 May
 6 | 14 May | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
