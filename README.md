@@ -3,10 +3,10 @@
 Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
 
 # Important!
-**Details of deadlines and scheduled meetings on this page should be treated as provisional and subject to change until you hear from the course coordinator via Blackboard that they are final. This is due to reorganisation in response to the COVID-19 crisis.**
+**The COVID-19 crisis means that all details are subject to change at any time. Keep close tabs on this page, and on information posted to Blackboard for changes to schedules, etc.**
 
 ## Link to zoom meetings of this class
-[https://vuw.zoom.us/j/218099130](https://vuw.zoom.us/j/218099130)
+You will find the zoom link for this class on [Blackboard](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?course_id=_106348_1&crosscoursenavrequest=true&crosscoursenavrequest=true&content_id=_2641867_1&crosscoursenavrequest=true).
 
 ## Link to video segments from the zoom meetings
 [https://southosullivan.com/gisc425/videos/](https://southosullivan.com/gisc425/videos/)
@@ -16,7 +16,7 @@ Item | Dates
  -: | :-
 Trimester | 2 March to 26 June 2020
 Teaching period | 2 March to 26 June 2020
-University shutdown | 24 March to 27 April2020
+University shutdown | 24 March to 27 April 2020
 Mid-trimester break | NA
 Last assessment item due (in this class) | 26 June 2020
 Study period | NA
@@ -31,7 +31,7 @@ Lectures are in Cotton 110 at 9AM on Thursdays and will be followed immediately 
 ## Contact details
 ### Lecturer/coordinator
 **Prof. [David O'Sullivan](mailto:david.osullivan@vuw.ac.nz)**
-**Office** CO227 **Extn.** 6492 **Office hours by appointment** [click here](http://calendly.com/dosullivan)
+**Office** CO227 **Extn.** 6492 **Office hours preferably by appointment** [click here](http://calendly.com/dosullivan) but direct message me on [the Slack](https://vuwgisc2020.slack.com) and we can arrange contact
 
 ### GIS Technician
 **[Andrew Rae](mailto:andrew.rae@vuw.ac.nz)**
@@ -46,15 +46,16 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 2 | 12 Mar | [Programming 1: functions and conditionals](labs/week-02/00-week-2-overview.ipynb) | [**`geopandas`: working with spatial data using code**](labs/week-02/week-02.zip?raw=true) (5%) | due 18 Mar
 3 | 19 Mar | [Programming 2: flow control and iteration](labs/week-03/00-week-3-overview.ipynb) | [**Loops and iteration**](labs/week-03/week-03.zip?raw=true) (10%) | due 29 Apr
 | | **COVID-19** | **[ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
-4 | 30 Apr | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 6 May
-5 | 7 May | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 20 May
-6 | 14 May | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
-7 | 21 May | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
-8 | 28 May | Beyond notebooks: virtual environments, IDEs and version control | Work on projects |  
-9 | 4 Jun | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
-10 | 11 Jun | Lab only | Work on projects |
-11 | 18 Jun | Course review | **In class test** (25%)
-12 | 25 Jun | Web scraping | [`BeautifulSoup`](labs/week-11/week-11.zip?raw=true) |
+4 | 2 Apr | Programming 3: Dictionaries and a pause to review | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 6 May
+5 | 9 Apr | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 20 May
+|| **SEMESTER BREAK** | **(kinda sorta)** | **NO TEACHING**
+6 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
+7 | 7 May | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
+8 | 14 May | Beyond notebooks: virtual environments, IDEs and version control | Work on projects |  
+9 | 21 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
+10 | 28 May | Lab only | Work on projects |
+11 | 4 Jun | Course review | **In class/at home 'e-test'** (25%)
+12 | 11 Jun | Web scraping | [`BeautifulSoup`](labs/week-11/week-11.zip?raw=true) |
 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
