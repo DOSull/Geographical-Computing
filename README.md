@@ -47,10 +47,10 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 3 | 19 Mar | [Programming 2: flow control and iteration](labs/week-03/00-week-3-overview.ipynb) | [**Loops and iteration**](labs/week-03/week-03.zip?raw=true) (10%) | due 29 Apr
 | | **COVID-19** | **[ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
 4 | 2 Apr | [Programming 3: Dictionaries](labs/week-04/00-week-4-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 6 May
-5 | 9 Apr | [`geopandas` as a GIS](labs/week-06/00-week-6-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-06/week-06.zip?raw=true) (15%) | due 20 May
+5 | 9 Apr | [`geopandas` as a GIS](labs/week-05/00-week-5-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-05/week-05.zip?raw=true) (15%) | due 20 May
 || **SEMESTER BREAK** | **(kinda sorta)** | **NO TEACHING**
 6 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
-7 | 7 May | Programming 4: [Objects and APIs](labs/week-05/00-object-orientation.ipynb); thinking algorithmically | Thought experiment exercise |
+7 | 7 May | Programming 4: Objects and APIs; thinking algorithmically | Thought experiment exercise |
 8 | 14 May | Beyond notebooks: virtual environments, IDEs and version control | Work on projects |  
 9 | 21 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
 10 | 28 May | Lab only | Work on projects |
