@@ -49,7 +49,7 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 4 | 2 Apr | [Programming 3: Dictionaries](labs/week-04/00-week-4-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 6 May
 5 | 9 Apr | [`geopandas` as a GIS](labs/week-05/00-week-5-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-05/week-05.zip?raw=true) (15%) | due 20 May
  &nbsp; | 11 Apr - 26 Apr | **SEMESTER BREAK** | **NO TEACHING**
-6 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-07/longer-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
+6 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-06/longer-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
 7 | 7 May | Programming 4: Objects and APIs; thinking algorithmically | Thought experiment exercise |
 8 | 14 May | Beyond notebooks: virtual environments, IDEs and version control | Work on projects |  
 9 | 21 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
