@@ -44,10 +44,10 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md)
 2 | 12 Mar | [Programming 1: functions and conditionals](labs/intro-to-geopandas/00-overview.ipynb) | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 18 Mar
-3 | 19 Mar | [Programming 2: flow control and iteration](labs/week-03/00-week-3-overview.ipynb) | [**Loops and iteration**](labs/week-03/week-03.zip?raw=true) (10%) | due 29 Apr
+3 | 19 Mar | [Programming 2: flow control and iteration](labs/sequences-and-iteration/00-overview.ipynb) | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 29 Apr
 | | **COVID-19** | **[ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
-4 | 2 Apr | [Programming 3: Dictionaries](labs/week-04/00-week-4-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/week-04/week-04.zip?raw=true) (15%) | due 6 May
-5 | 9 Apr | [`geopandas` as a GIS](labs/week-05/00-week-5-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/week-05/week-05.zip?raw=true) (15%) | due 20 May
+4 | 2 Apr | [Programming 3: Dictionaries](labs/dictionaries/00-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 6 May
+5 | 9 Apr | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 20 May
  &nbsp; | 11 Apr - 26 Apr | **SEMESTER BREAK** | **NO TEACHING**
 6 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/week-06/longer-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
 7 | 7 May | Programming 4: Objects and APIs; thinking algorithmically | Thought experiment exercise |
