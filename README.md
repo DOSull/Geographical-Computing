@@ -43,15 +43,15 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md)
-2 | 12 Mar | [Programming 1: functions and conditionals](labs/intro-to-geopandas/00-overview.ipynb) | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 18 Mar
+2 | 12 Mar | [Programming 1: functions and conditionals](labs/intro-to-geopandas/00-overview.ipynb) | [**`geopandas`: working with spatial data using code**](the labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 18 Mar
 3 | 19 Mar | [Programming 2: flow control and iteration](labs/sequences-and-iteration/00-overview.ipynb) | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 29 Apr
 | | **COVID-19** | **[ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
 4 | 2 Apr | [Programming 3: Dictionaries](labs/dictionaries/00-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 6 May
 5 | 9 Apr | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 20 May
  &nbsp; | 11 Apr - 26 Apr | **SEMESTER BREAK** | **NO TEACHING**
-6 | 30 Apr | Introducing some potential project topics | [**Final programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%)<br />Hands on with `conda`, `git`, and an IDE | due 12 Jun
+6 | 30 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 12 Jun
 7 | 7 May | Programming 4: Objects and APIs; thinking algorithmically | [Object orientation](labs/object-orientation/object-orientation.ipynb) and thought experiment exercise |
-8 | 14 May | Beyond notebooks: virtual environments, IDEs and version control | Work on projects |  
+8 | 14 May | Lab only | Work on projects |  
 9 | 21 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
 10 | 28 May | Lab only | Work on projects |
 11 | 4 Jun | Course review | **In class/at home 'e-test'** (25%)
