@@ -43,7 +43,7 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 5 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md)
-2 | 12 Mar | [Programming 1: functions and conditionals](labs/intro-to-geopandas/00-overview.ipynb) | [**`geopandas`: working with spatial data using code**](the labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 18 Mar
+2 | 12 Mar | [Programming 1: functions and conditionals](labs/intro-to-geopandas/00-overview.ipynb) | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 18 Mar
 3 | 19 Mar | [Programming 2: flow control and iteration](labs/sequences-and-iteration/00-overview.ipynb) | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 29 Apr
 | | **COVID-19** | **[ALERT LEVEL 4](https://covid19.govt.nz/government-actions/covid-19-alert-system/)** | **UNIVERSITY CLOSED**
 4 | 2 Apr | [Programming 3: Dictionaries](labs/dictionaries/00-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 6 May
