@@ -54,7 +54,7 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 8 | 14 May | Lab only | Work on projects |  
 9 | 21 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
 10 | 28 May | Lab only | Work on projects |
-11 | 4 Jun | Course review (ask me anything!) | &nbsp;
+11 | 4 Jun | Course review (ask me anything!) | [`BeautifulSoup`](labs/web-scraping/web-scraping.zip?raw=true) |
 12 | 11 Jun | &nbsp; | **In class/at home 'e-test'** (25%)
 
 ## Lectures
