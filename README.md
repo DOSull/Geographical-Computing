@@ -49,13 +49,13 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 4 | 2 Apr | [Programming 3: Dictionaries](labs/dictionaries/00-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 6 May
 5 | 9 Apr | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 20 May
  &nbsp; | 11 Apr - 26 Apr | **SEMESTER BREAK** | **NO TEACHING**
-6 | 30 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 12 Jun
+6 | 30 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 15 Jun
 7 | 7 May | Programming 4: Objects and APIs; thinking algorithmically | [Object orientation](labs/object-orientation/object-orientation.ipynb) and thought experiment exercise |
 8 | 14 May | Lab only | Work on projects |  
 9 | 21 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
 10 | 28 May | Lab only | Work on projects |
-11 | 4 Jun | Course review | **In class/at home 'e-test'** (25%)
-12 | 11 Jun | Web scraping | [`BeautifulSoup`](labs/web-scraping/web-scraping.zip?raw=true) |
+11 | 4 Jun | Course review (ask me anything!) | &nbsp;
+12 | 11 Jun | &nbsp; | **In class/at home 'e-test'** (25%)
 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
@@ -101,8 +101,8 @@ Assessment item | Credit | Due date | CLOs
 Loops and iteration | 10% | 29 April | 2 3
 Reclassify complex landuse data programmatically | 15% | 6 May | 1 3
 Using `geopandas` as a GIS | 15% | 20 May | 2 4
-Programming mini-project | 30% | 12 June | 1 2 3 4
-In class test | 25% | 18 June | 5
+Programming mini-project | 30% | 15 June | 1 2 3 4
+In class test | 25% | 11 June | 5
 
 Assessments are submitted electronically via dropbox on [Blackboard](https://blackboard.vuw.ac.nz/). I will aim to return coursework within 3 weeks. Extensions should be requested from the SGEES administration office. If you anticipate problems come and talk to me.
 
