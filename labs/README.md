@@ -36,7 +36,7 @@ Once you have extracted the files, then follow the instructions below as require
   From there, things should be reasonably straightforward.
 
 ### On *MacOS* or *Linux*
-Here it is assumed you have followed instructions on [this page](week-1/setting-up-the-gisc-425-environment.ipynb) to set up for the course.
+Here it is assumed you have followed instructions on [this page](setting-up-the-gisc-425-environment.ipynb) to set up for the course.
 
 + Open a console.
 + Navigate to where you extracted the lab files.
