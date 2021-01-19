@@ -1,4 +1,4 @@
-#### GISC 425 T1 2020
+#### GISC 420 T1 2021
 # Variables, expressions and statements
 A *variable* in Python is a name that we associate with a value. We do this by *assigning* the value to a name using the `=` operator.
 ```python

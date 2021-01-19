@@ -1,4 +1,4 @@
-#### GISC 425 T1 2020
+#### GISC 420 T1 2021
 # It's turtles all the way down
 Right. So the API documentation for `turtle` is available [here](https://docs.python.org/3/library/turtle.html). That is where you should look for information on things that are unclear.
 
@@ -84,7 +84,7 @@ def square(t, length):
 
 4. Write a function called `circle()` that takes a turtle, `t` , and radius, `r` , as parameters and draws an approximate circle by calling `polygon` with an appropriate length and number of sides. Test your function with a range of values of `r`.
 
-   Hint: figure out the circumference of the circle and make sure that length * n = circumference.
+   Hint: figure out the circumference of the circle and make sure that `length * n = circumference`.
 
 5. Make a more general version of circle called `arc()` that takes an additional parameter `angle`, which determines what fraction of a circle to draw. `angle` is in units of degrees, so when `angle=360`, `arc` should draw a complete circle.
 

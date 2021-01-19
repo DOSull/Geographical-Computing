@@ -1,4 +1,4 @@
-#### GISC 425 T1 2020
+#### GISC 420 T1 2021
 # Arithmetic, values, types and string operations
 Here we look at some of the most basic aspects of how Python handles items of data.
 
