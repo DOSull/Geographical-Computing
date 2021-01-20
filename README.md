@@ -1,5 +1,5 @@
 #### GISC 420 T1 2021
-# GISC 420 Emerging Topics in GIScience: Geographical Computing
+# GISC 420 Geographical Computing
 Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
 
 <!-- # Important!
@@ -19,9 +19,9 @@ Some of these were recorded in 2020. However, they should still be useful as ref
 ## Important dates
 Item | Dates
  -: | :-
-Trimester | 22 February to 19 June 2020
-Teaching period | 22 February to 28 May 2020
-Mid-trimester break | 5 April to 16 April 2020
+Trimester | 22 February to 19 June 2021
+Teaching period | 22 February to 28 May 2021
+Mid-trimester break | 5 April to 16 April 2021
 Last assessment item due (in this class) | **TBD**
 Study period | NA
 Examination period | NA
