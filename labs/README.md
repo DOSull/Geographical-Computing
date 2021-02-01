@@ -1,4 +1,4 @@
-#### GISC 425 T1 2020
+#### GISC 420 T1 2021
 # General instructions for the Labs
 We will be using some different tools as the course progresses. Follow the relevant instructions below.
 

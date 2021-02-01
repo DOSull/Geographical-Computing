@@ -1,4 +1,4 @@
-#### GISC 425 T1 2020
+#### GISC 420 T1 2021
 # The 'big' assignment: ideas and scope
 ## A list of topic ideas
 Here are some topic ideas to consider and discuss. To begin, don't worry too much about *how* think more about how much you are interested (or not) in each one. Alternatively think up an [idea of your own](#your-idea-here) to work on.
@@ -11,7 +11,7 @@ An isochrone map shows lines of equal travel time from an origin location, based
 ### Multitype Voronoi
 Voronoi (or Thiessen or Dirichlet or proximity) polygons are heavily used in GIS and spatial analysis. Usually they are associated with a set of points. Christopher Gold has proposed that Voronoi regions be associated not only with points, but with lines and polygons, and that these form natural neighbourhood areas of the points, lines and polygons. Below is a simple example.  An early paper about this is [here](http://link.springer.com/10.1007/3-540-55966-3_13).
 
-<img src="voronoi-brooklyn.png"><br />
+<img src="voronoi-brooklyn.png" width=60%><br />
 
 I made this example with a series of steps in QGIS. The idea of this project would be to make some scripts that can take a combination of input layers of various kinds, and make a single set of Voronoi polygons from them.
 
