@@ -19,9 +19,9 @@ Some of these were recorded in 2020. However, they should still be useful as ref
 ## Important dates
 Item | Dates
  -: | :-
-Trimester | 22 February to 19 June 2021
-Teaching period | 22 February to 28 May 2021
-Mid-trimester break | 5 April to 16 April 2021
+Trimester | 22 February to 19 June 2020
+Teaching period | 22 February to 28 May 2020
+Mid-trimester break | 5 April to 16 April 2020
 Last assessment item due (in this class) | **TBD**
 Study period | NA
 Examination period | NA
@@ -54,8 +54,8 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 31 May
  &nbsp; | 5 Apr - 16 Apr | **SEMESTER BREAK** | **NO TEACHING**
 7 | 22 Apr | Programming 4: Objects and APIs; thinking algorithmically | [Object orientation](labs/object-orientation/object-orientation.ipynb) and thought experiment exercise |
-8 | 29 Apr | QGIS and Arc APIs and plugins | Work on projects |  
-9 | 6 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Work on projects |
+8 | 29 Apr | QGIS and Arc APIs and plugins | Coming soon: material on working with `pyqgis` and/or `arcpy`. Work on projects |  
+9 | 6 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Coming soon: some Javascript. Work on projects |
 10 | 13 May | Lab only | Work on projects |
 11 | 20 May | Course review (ask me anything!) | [`BeautifulSoup`](labs/web-scraping/web-scraping.zip?raw=true) |
 12 | 27 May | &nbsp; | **In-class 'e-test'** (25%)
