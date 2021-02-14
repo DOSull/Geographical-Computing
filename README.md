@@ -14,7 +14,7 @@ You will find the zoom link for this class on Blackboard (link to be supplied).
 ## Link to video segments from zoom meetings
 Some of these were recorded in 2020. However, they should still be useful as refreshers on the content covered
 
-[https://southosullivan.com/gisc425/videos/](https://southosullivan.com/gisc425/videos/)
+[https://southosullivan.com/gisc420/videos/](https://southosullivan.com/gisc420/videos/)
 
 ## Important dates
 Item | Dates
