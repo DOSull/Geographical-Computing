@@ -2,26 +2,28 @@
 # GISC 420 Geographical Computing
 Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
 
-<!-- # Important!
-**The COVID-19 crisis means that all details are subject to change at any time. Keep close tabs on this page, and on information posted to Blackboard for changes to schedules, etc.**
--->
 ### Note on currency of material on this site
-The pages on this site are continuously updated. While material evolves from earlier versions to that current for this year (2021) for lab materials in particularly you should confirm that the heading indicates that the material is current for 2021 so that you don't waste time completing earlier versions of assignments!
+The pages on this site are continuously updated. While material evolves from earlier versions to that current for this year (2021) for lab materials in particular you should confirm that the heading indicates that the material is current for 2021 so that you don't waste time completing earlier versions of assignments!
 
-## Link to zoom meetings of this class
-You will find the zoom link for this class on Blackboard (link to be supplied).
+## COVID Alert level changes
+If COVID alert levels change, the class will continue as follows:
++ **Level 1** Class as normal. Attendance in person preferred, streamed content will be available at the link posted on Blackboard.
++ **Level 2** Room capacity will be reduced. We will determine which students and how many wish to attend in person consistent with those limitations. Otherwise as level 1.
++ **Level 3** or **Level 4** Class will be conducted solely over zoom with recordings available later for review.
 
-## Link to video segments from zoom meetings
+## Link to video segments from zoom sessions
 Some of these were recorded in 2020. However, they should still be useful as refreshers on the content covered
 
 [https://southosullivan.com/gisc420/videos/](https://southosullivan.com/gisc420/videos/)
 
+These videos will be updated as we get to that material in class this year.
+
 ## Important dates
 Item | Dates
  -: | :-
-Trimester | 22 February to 19 June 2020
-Teaching period | 22 February to 28 May 2020
-Mid-trimester break | 5 April to 16 April 2020
+Trimester | 22 February to 19 June 2021
+Teaching period | 22 February to 28 May 2021
+Mid-trimester break | 5 April to 16 April 2021
 Last assessment item due (in this class) | **TBD**
 Study period | NA
 Examination period | NA
