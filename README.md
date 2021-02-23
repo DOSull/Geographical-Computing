@@ -24,12 +24,12 @@ Item | Dates
 Trimester | 22 February to 19 June 2021
 Teaching period | 22 February to 28 May 2021
 Mid-trimester break | 5 April to 16 April 2021
-Last assessment item due (in this class) | **TBD**
+Last assessment item due (in this class) | 31 May 2021
 Study period | NA
 Examination period | NA
-Withdrawal dates | See [Course additions and withdrawals](www.victoria.ac.nz/home/admisenrol/payments/withdrawalsrefunds)
+Withdrawal dates | See [Course additions and withdrawals](www.wgtn.ac.nz/home/admisenrol/payments/withdrawalsrefunds)
 
-If you cannot complete an assignment or sit a test or examination, refer to [Aegrotats](www.victoria.ac.nz/home/study/exams-and-assessments/aegrotat)
+If you cannot complete an assignment or sit a test or examination, refer to [Aegrotats](www.wgtn.ac.nz/home/study/exams-and-assessments/aegrotat)
 
 ## Lecture and lab schedule
 Lectures are in Cotton 110 at 9AM on Thursdays and will be followed immediately by related lab sessions in the same location. The combined session will last up to three hours, finishing before noon.
@@ -70,25 +70,27 @@ A really great introduction to Python is provided by this freely available PDF b
 
 + Downey A. 2015. [*Think Python: How to think like a Computer Scientist*](http://greenteapress.com/thinkpython2/thinkpython2.pdf) 2nd edn. Green Tea Press, Needham, MA.
 
-Other useful resources are found online and will be called out in lectures as we proceed. There will probably be readings set from
+Other useful resources are generally found online and will be called out in lectures as we proceed or provided via Blackboard if needed.
+
+<!--There will probably be readings set from
 
 + Crickard P, E van Rees and S Toms. 2018. [*Mastering Geospatial Analysis with Python*](https://www.packtpub.com/application-development/mastering-geospatial-analysis-python). Packt Publishing.
 
 + Westra E. 2016. [*Python geospatial development*](https://www.packtpub.com/application-development/python-geospatial-development) 3rd edn. Packt Publishing.
 
-These are both accessible via a university subscription through the library, and PDFs are purchasable for only US$5.
+These are both accessible via a university subscription through the library, and PDFs are purchasable for only US$5.-->
 
 ## Labs
-Lab sessions follow the lecture sessions and will cover related practical topics. General directions for the labs are found [here](labs/README.md). Five sessions have an associated assessed assignment, but you should attend all labs and participate fully to broaden your knowledge of GIScience methods and tools as any of the approaches covered may prove useful for you in other parts of the program. (Note also that a portion of the course credit is for participation in all aspects of the course.)
+Lab sessions follow the lecture sessions and will cover related practical topics. General directions for the labs are found [here](labs/README.md). Five sessions have an associated assessed assignment, but you should attend all labs and participate fully to broaden your knowledge of GIScience methods and tools as any of the approaches covered may prove useful for you in other parts of the program.
 
 The final assignment may be organised in pairs or small groups, depending on differing student interests and skillsets.
 
 ### Software
-Most of the lab work will be completed in [Jupyter Notebook](https://jupyter.org/) or similar [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) environments. These are good for incrementally becoming accustomed to code, then writing small amounts of code, building up to writing more extensive blocks of code.
+Most of the lab assessments will be completed in [Jupyter Notebook](https://jupyter.org/) or similar [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) environments. These are good for incrementally becoming accustomed to code, then writing small amounts of code, building up to writing more extensive blocks of code.
 
-When we come to the final assignment it may be more effective to work in an *Integrated Development Environment* (IDE) such as [VSCode](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/) and use a version control tool such as [git](https://git-scm.com/).
+When we come to the mini-project assignment it will be more effective to work in an *Integrated Development Environment* (IDE) such as [VSCode](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/) and use a version control tool such as [git](https://git-scm.com/).
 
-All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms).
+All these tools are freely available for all platforms (although there are a few wrinkles and variations between platforms). We will look at these in class in week 6.
 
 ## Course learning objectives (CLOs)
 1. manage, analyse, visualize and present spatial data using a range of programming tools
@@ -123,21 +125,21 @@ Note that there are also non-assessed lab sessions. These will be important for 
 The primary mode of communication for the course will be via Blackboard, so please ensure that your contact details there are up to date and are regularly checked (note that Blackboard defaults to your myvuw email address).
 
 ### Class representatives
-Since this is a relatively small graduate class, I expect that it will not be a problem to raise any issues or concerns directly with me, or with the GIS technician.
+A volunteer is need to act as class representative. If you are interested let me know. Further information about the role is available [here](https://www.vuwsa.org.nz/class-representatives/).
 
 ### Other useful resources
-+ [Academic Integrity and Plagiarism](http://www.victoria.ac.nz/home/study/plagiarism)
-+ [Aegrotats](http:\\www.victoria.ac.nz/home/study/exams-and-assessments/aegrotat)
-+ [Academic Progress](http:\\www.victoria.ac.nz/home/study/academic-progress) (including restrictions and non-engagement)
-+ [Dates and deadlines](http:\\www.victoria.ac.nz/home/study/dates)
-+ [Grades](http:\\www.victoria.ac.nz/home/study/exams-and-assessments/grades)
-+ [Resolving academic issues](http:\\www.victoria.ac.nz/home/about/avcacademic/publications2#grievances)
-+ [Special passes](http:\\www.victoria.ac.nz/home/about/avcacademic/publications2#specialpass)
-+ [Statutes and policies including the Student Conduct Statute](http:\\www.victoria.ac.nz/home/about/policy)
-+ [Student support](http:\\www.victoria.ac.nz/home/viclife/studentservice)
-+ [Students with disabilities](http:\\www.victoria.ac.nz/st_services/disability)
-+ [Student Charter](http:\\www.victoria.ac.nz/home/viclife/student-charter)
-+ [Student Contract](http:\\www.victoria.ac.nz/home/admisenrol/enrol/studentcontract)
++ [Academic Integrity and Plagiarism](http://www.wgtn.ac.nz/home/study/plagiarism)
++ [Aegrotats](http:\\www.wgtn.ac.nz/home/study/exams-and-assessments/aegrotat)
++ [Academic Progress](http:\\www.wgtn.ac.nz/home/study/academic-progress) (including restrictions and non-engagement)
++ [Dates and deadlines](http:\\www.wgtn.ac.nz/home/study/dates)
++ [Grades](http:\\www.wgtn.ac.nz/home/study/exams-and-assessments/grades)
++ [Resolving academic issues](http:\\www.wgtn.ac.nz/home/about/avcacademic/publications2#grievances)
++ [Special passes](http:\\www.wgtn.ac.nz/home/about/avcacademic/publications2#specialpass)
++ [Statutes and policies including the Student Conduct Statute](http:\\www.wgtn.ac.nz/home/about/policy)
++ [Student support](http:\\www.wgtn.ac.nz/home/viclife/studentservice)
++ [Students with disabilities](http:\\www.wgtn.ac.nz/st_services/disability)
++ [Student Charter](http:\\www.wgtn.ac.nz/home/viclife/student-charter)
++ [Student Contract](http:\\www.wgtn.ac.nz/home/admisenrol/enrol/studentcontract)
 + [Turnitin](http:\\www.cad.vuw.ac.nz/wiki/index.php/Turnitin)
-+ [University structure](http:\\www.victoria.ac.nz/home/about)
++ [University structure](http:\\www.wgtn.ac.nz/home/about)
 + [VUWSA](http:\\www.vuwsa.org.nz)
