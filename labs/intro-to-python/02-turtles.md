@@ -36,11 +36,13 @@ kiwi.reset()
 ```
 
 ## Simple repetition
-So... using what you already know, make `kiwi` draw a square.
+So... using what you already know, make `kiwi` draw a square. No, really... before reading on, issue commands to make `kiwi` draw a square.
 
-The book tells you what you most likely wrote. It probably involved some repetition, which even allowing for copy and paste is pretty tedious to deal with.
+...
 
-Thankfully, much of programming is all about repetition (usually called *iteration*), so we have a construct in Python that allows us to repeat actions many times. For example
+The book tells you what you most likely wrote. It probably involved some repetition, which even allowing for copy and paste is tedious to deal with.
+
+Thankfully, much of programming is _all about repetition_ (usually called *iteration*), so we have a construct in Python that allows us to repeat actions many times. For example
 
 ```python
 # Simple repetition
@@ -61,7 +63,7 @@ These are taken directly from _Think Python_. They won't make much sense this we
 
 ```python
 def square(t):
-    print("Replace this print statement with code to draw a square")
+    print("Replace this print statement with code to get t to draw a square")
 
 ## and here's a line of code to run the function
 square(kiwi)
@@ -76,11 +78,11 @@ def square(t, length):
     print("You know what to do")
 ```
 
-3. Make a copy of the `square` function code and change the name to `polygon`. Add another parameter named `n` and modify the body so it draws an n-sided regular polygon. Hint: The exterior angles of an n-sided regular polygon are 360/n degrees.
+3. Make a copy of the `square` function code and change the name to `polygon`. Add another parameter named `n` and modify the body so it draws an n-sided regular polygon. Hint: The exterior angles of an $n$-sided regular polygon are $180 - 360 / n$ degrees.
 
    No clues this time...
 
-### If you get into this turtle thing, try this
+### If you get really into this turtle thing, try this
 
 4. Write a function called `circle()` that takes a turtle, `t` , and radius, `r` , as parameters and draws an approximate circle by calling `polygon` with an appropriate length and number of sides. Test your function with a range of values of `r`.
 
@@ -89,7 +91,7 @@ def square(t, length):
 5. Make a more general version of circle called `arc()` that takes an additional parameter `angle`, which determines what fraction of a circle to draw. `angle` is in units of degrees, so when `angle=360`, `arc` should draw a complete circle.
 
 ## Read the book!
-The book spells out nicely how to complete these tasks in sections 4.4 to 4.7 and I suggest that you work through those while working on this material.
+The book spells out nicely how to complete these tasks in sections 4.4 to 4.7 and I suggest that you work through those while tackling this material.
 
 ## Clean up
 To clear the graphics window:

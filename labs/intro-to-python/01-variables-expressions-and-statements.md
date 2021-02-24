@@ -29,7 +29,7 @@ Name  | &nbsp;   | Value
 `gravity` | &rarr; | 9.8
 
 
-If you have ever used a calculator with memory registers, this is a bit like that, but you can call things (more or less) whatever you want. Generally speaking, in programming we use variable names that are *meaningful in the context of the program*, so that we know what's going on. The variable names are another way that we make code readable and understandable by humans (the computer couldn't care less what you call things).
+If you have ever used a calculator with memory registers, this is a bit like that, but you can call things (more or less) whatever you want by giving it a name. Generally speaking, in programming we use variable names that are *meaningful in the context of the program*, so that we know what's going on. The variable names are another way that we make code readable and understandable by humans (the computer couldn't care less what you call things).
 
 You can pretty much call a variable anything you want with a few restrictions, which will generally produce errors.
 
@@ -58,6 +58,7 @@ as       elif     if       or       yield
 assert   else     import   pass     break
 except   in       raise
 ```
+
 Try using one of these as a variable name and see what happens. For example:
 ```
 from = 'whence I came'
