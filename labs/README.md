@@ -12,7 +12,7 @@ We will be using some different tools as the course progresses. Follow the relev
   The prompt should change to the prefix `(g420)`.
 + Then run IDLE by typing
 
-      idle
+      idle3
 
 + In IDLE start typing python commands per the instructions.
 
