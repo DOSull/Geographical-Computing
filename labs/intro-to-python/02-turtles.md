@@ -78,7 +78,7 @@ def square(t, length):
     print("You know what to do")
 ```
 
-3. Make a copy of the `square` function code and change the name to `polygon`. Add another parameter named `n` and modify the body so it draws an n-sided regular polygon. Hint: The exterior angles of an $n$-sided regular polygon are $180 - 360 / n$ degrees.
+3. Make a copy of the `square` function code and change the name to `polygon`. Add another parameter named `n` and modify the body so it draws an n-sided regular polygon. Hint: The interior angles of an n-sided regular polygon are 180 - 360 / n degrees.
 
    No clues this time...
 
