@@ -37,7 +37,7 @@ Lectures are in Cotton 110 at 9AM on Thursdays and will be followed immediately 
 ## Contact details
 ### Lecturer/coordinator
 **Prof. [David O'Sullivan](mailto:david.osullivan@vuw.ac.nz)**
-**Office** CO227 **Extn.** 6492 **Office hours preferably by appointment** [click here](http://calendly.com/dosullivan) but direct message me on [the Slack](https://vuwgisc2021.slack.com) and we can arrange contact. The office phone system is not a good way to reach me.
+**Office** CO227 **Extn.** 6492 **Office hours preferably by appointment** [click here](https://calendly.com/dosullivan) but direct message me on [the Slack](https://vuwgisc2021.slack.com) and we can arrange contact. The office phone system is not a good way to reach me.
 
 ### GIS Technician
 **[Andrew Rae](mailto:andrew.rae@vuw.ac.nz)**
@@ -68,7 +68,7 @@ Lectures will generally consist of up to an hour of presented material, and up t
 ### Readings
 A really great introduction to Python is provided by this freely available PDF book (also available to purchase), from which readings will be assigned, especially in the first half of trimester.
 
-+ Downey A. 2015. [*Think Python: How to think like a Computer Scientist*](http://greenteapress.com/thinkpython2/thinkpython2.pdf) 2nd edn. Green Tea Press, Needham, MA.
++ Downey A. 2015. [*Think Python: How to think like a Computer Scientist*](https://greenteapress.com/thinkpython2/thinkpython2.pdf) 2nd edn. Green Tea Press, Needham, MA.
 
 Other useful resources are generally found online and will be called out in lectures as we proceed or provided via Blackboard if needed.
 
@@ -128,18 +128,18 @@ The primary mode of communication for the course will be via Blackboard, so plea
 A volunteer is need to act as class representative. If you are interested let me know. Further information about the role is available [here](https://www.vuwsa.org.nz/class-representatives/).
 
 ### Other useful resources
-+ [Academic Integrity and Plagiarism](http://www.wgtn.ac.nz/home/study/plagiarism)
-+ [Aegrotats](http:\\www.wgtn.ac.nz/home/study/exams-and-assessments/aegrotat)
-+ [Academic Progress](http:\\www.wgtn.ac.nz/home/study/academic-progress) (including restrictions and non-engagement)
-+ [Dates and deadlines](http:\\www.wgtn.ac.nz/home/study/dates)
-+ [Grades](http:\\www.wgtn.ac.nz/home/study/exams-and-assessments/grades)
-+ [Resolving academic issues](http:\\www.wgtn.ac.nz/home/about/avcacademic/publications2#grievances)
-+ [Special passes](http:\\www.wgtn.ac.nz/home/about/avcacademic/publications2#specialpass)
-+ [Statutes and policies including the Student Conduct Statute](http:\\www.wgtn.ac.nz/home/about/policy)
-+ [Student support](http:\\www.wgtn.ac.nz/home/viclife/studentservice)
-+ [Students with disabilities](http:\\www.wgtn.ac.nz/st_services/disability)
-+ [Student Charter](http:\\www.wgtn.ac.nz/home/viclife/student-charter)
-+ [Student Contract](http:\\www.wgtn.ac.nz/home/admisenrol/enrol/studentcontract)
-+ [Turnitin](http:\\www.cad.vuw.ac.nz/wiki/index.php/Turnitin)
-+ [University structure](http:\\www.wgtn.ac.nz/home/about)
-+ [VUWSA](http:\\www.vuwsa.org.nz)
++ [Academic Integrity and Plagiarism](https://www.wgtn.ac.nz/home/study/plagiarism)
++ [Aegrotats](https://www.wgtn.ac.nz/home/study/exams-and-assessments/aegrotat)
++ [Academic Progress](https://www.wgtn.ac.nz/home/study/academic-progress) (including restrictions and non-engagement)
++ [Dates and deadlines](https://www.wgtn.ac.nz/home/study/dates)
++ [Grades](https://www.wgtn.ac.nz/home/study/exams-and-assessments/grades)
++ [Resolving academic issues](https://www.wgtn.ac.nz/home/about/avcacademic/publications2#grievances)
++ [Special passes](https://www.wgtn.ac.nz/home/about/avcacademic/publications2#specialpass)
++ [Statutes and policies including the Student Conduct Statute](https://www.wgtn.ac.nz/home/about/policy)
++ [Student support](https://www.wgtn.ac.nz/home/viclife/studentservice)
++ [Students with disabilities](https://www.wgtn.ac.nz/st_services/disability)
++ [Student Charter](https://www.wgtn.ac.nz/home/viclife/student-charter)
++ [Student Contract](https://www.wgtn.ac.nz/home/admisenrol/enrol/studentcontract)
++ [Turnitin](https://www.cad.vuw.ac.nz/wiki/index.php/Turnitin)
++ [University structure](https://www.wgtn.ac.nz/home/about)
++ [VUWSA](https://www.vuwsa.org.nz)
