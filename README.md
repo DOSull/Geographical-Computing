@@ -52,7 +52,7 @@ Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 2 | 4 Mar | Programming 1: functions and conditionals | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 10 Mar
 3 | 11 Mar | Programming 2: flow control and iteration | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 24 Mar
 4 | 18 Mar | Programming 3: Dictionaries | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 31 Mar
-5 | 25 Mar | `geopandas` as a GISlabs | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr
+5 | 25 Mar | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr
 6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 31 May
  &nbsp; | 5 Apr - 16 Apr | **SEMESTER BREAK** | **NO TEACHING**
 7 | 22 Apr | Programming 4: Objects and APIs; thinking algorithmically | [Object orientation](labs/object-orientation/object-orientation.ipynb) and thought experiment exercise |
