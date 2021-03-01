@@ -49,7 +49,7 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 25 Feb | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md)
-2 | 4 Mar | Programming 1: [functions](labs/intro-to-geopandas/02-functions.ipynb) and [conditionals](labs/intro-to-geopandas/03-conditionals.ipynb) | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas/00-overview.ipynb) (5%) | due 10 Mar
+2 | 4 Mar | Programming 1: [functions](labs/intro-to-geopandas/02-functions.ipynb) and [conditionals](labs/intro-to-geopandas/03-conditionals.ipynb) | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/00-overview.ipynb) (5%) | due 10 Mar
 3 | 11 Mar | [Programming 2: flow control and iteration](labs/sequences-and-iteration/00-overview.ipynb) | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 24 Mar
 4 | 18 Mar | [Programming 3: Dictionaries](labs/dictionaries/00-overview.ipynb) | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 31 Mar
 5 | 25 Mar | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr
