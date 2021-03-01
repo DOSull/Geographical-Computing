@@ -42,7 +42,7 @@ Once you have extracted the files, then follow the instructions below as require
 
       jupyter notebook
 
-  From there, things should be reasonably straightforward.
+  From there, things should be reasonably straightforward. Just remember to start with the `00-overview.ipynb` notebook!
 
 ### On *MacOS* or *Linux*
 It is hard to give detailed instructions as setups may differ, but here are the steps:
