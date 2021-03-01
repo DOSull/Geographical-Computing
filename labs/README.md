@@ -17,7 +17,7 @@ This week you can use the lab machines:
 
       idle
 
-  on Windows, or 
+  on Windows, or
 
       idle3
 
@@ -26,7 +26,7 @@ This week you can use the lab machines:
 + In IDLE start typing python commands per the instructions.
 
 ## Weeks 2 to 5
-Each week, you should download the associated `.zip` file, **linked from the timetable on the course main page** and extract it to a folder on your computer. In Windows be particularly careful to right-click and extract the files to an actual folder as many version of Windows let you look inside zip archives without actually extracting the files.
+Each week, you should download the associated `.zip` file, **linked via the lab materials column in the timetable on the course main page** and extract it to a folder on your computer. In Windows be particularly careful to right-click and extract the files to an actual folder as many version of Windows let you look inside zip archives without actually extracting the files.
 
 Once you have extracted the files, then follow the instructions below as required.
 
