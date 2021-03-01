@@ -46,7 +46,7 @@ Lectures are in Cotton 110 at 9AM on Thursdays and will be followed immediately 
 ## Lab and lecture timetable
 Here's the trimester schedule we will aim to follow. **Bolded labs** have an associated assignment that must be submitted and contributes the indicated percentage of the course credit.  Relevant materials (lecture slides, lab scripts and datasets) are linked below, when available.
 
-Week# | Date | Lecture topic | [Lab materials](labs/README.md) | Notes
+Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
 1 | 25 Feb | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md)
 2 | 4 Mar | Programming 1: functions and conditionals | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 10 Mar
