@@ -55,7 +55,7 @@ Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes
 5 | 25 Mar | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr
 6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 31 May
  &nbsp; | 5 Apr - 16 Apr | **SEMESTER BREAK** | **NO TEACHING**
-7 | 22 Apr | Programming 4: Objects and APIs; thinking algorithmically | [Object orientation](labs/object-orientation/object-orientation.ipynb) |
+7 | 22 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) and APIs; thinking algorithmically |
 8 | 29 Apr | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `pydeck` - making JavaScript using Python
 9 | 6 May | Web-scraping and the DOM | [`BeautifulSoup`](labs/web-scraping/web-scraping.zip?raw=true)
 10 | 13 May | QGIS and Arc APIs and automating GIS | `pyqgis` and/or `arcpy`  
