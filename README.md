@@ -55,12 +55,12 @@ Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes
 5 | 25 Mar | `geopandas` as a GIS | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr
 6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 31 May
  &nbsp; | 5 Apr - 16 Apr | **SEMESTER BREAK** | **NO TEACHING**
-7 | 22 Apr | Programming 4: Objects and APIs; thinking algorithmically | [Object orientation](labs/object-orientation/object-orientation.ipynb) and thought experiment exercise |
-8 | 29 Apr | QGIS and Arc APIs and plugins | Coming soon: material on working with `pyqgis` and/or `arcpy`. Work on projects |  
-9 | 6 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | Coming soon: some Javascript. Work on projects |
-10 | 13 May | Lab only | Work on projects |
-11 | 20 May | Course review (ask me anything!) | [`BeautifulSoup`](labs/web-scraping/web-scraping.zip?raw=true) |
-12 | 27 May | &nbsp; | **In-class 'e-test'** (25%)
+7 | 22 Apr | Programming 4: Objects and APIs; thinking algorithmically | [Object orientation](labs/object-orientation/object-orientation.ipynb) |
+8 | 29 Apr | [A glimpse of other languages: same only different](https://southosullivan.com/gisc425/other-languages/) | `pydeck` - making JavaScript using Python
+9 | 6 May | Web-scraping and the DOM | [`BeautifulSoup`](labs/web-scraping/web-scraping.zip?raw=true)
+10 | 13 May | QGIS and Arc APIs and automating GIS | `pyqgis` and/or `arcpy`  
+11 | 20 May | Course review (ask me anything!) | Working on mini-projects
+12 | 27 May | **In-class 'e-test'** (25%) | Working on mini-projects
 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
