@@ -12,11 +12,7 @@ If COVID alert levels change, the class will continue as follows:
 + **Level 3** or **Level 4** Class will be conducted solely over zoom with recordings available later for review.
 
 ## Link to video segments from zoom sessions
-Some of these were recorded in 2020. However, they should still be useful as refreshers on the content covered
-
-[https://southosullivan.com/gisc420/videos/](https://southosullivan.com/gisc420/videos/)
-
-These videos will be updated as we get to that material in class this year.
+A consolidated list of the video material for this class is available on [this page](video-links.md).
 
 ## Important dates
 Item | Dates
@@ -48,8 +44,8 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 
 Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes
 :----:|:---- |:------------- |:--------- |:---
-1 | 25 Feb | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md)
-2 | 4 Mar | [Programming 1](https://southosullivan.com/gisc420/functions-and-conditionals/) functions and conditionals | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 10 Mar
+1 | 25 Feb | Course overview; why python; variables and operators<br />[Accompanying videos](video-links#week-1-introduction) | [Introduction to Python code](labs/intro-to-python/README.md)
+2 | 4 Mar | [Programming 1](https://southosullivan.com/gisc420/functions-and-conditionals/) functions and conditionals<br />[Accompanying videos](video-links#week-2-functions-and-conditionals) | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 10 Mar
 3 | 11 Mar | [Programming 2](labs/sequences-and-iteration/00-overview.ipynb): flow control and iteration | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 24 Mar
 4 | 18 Mar | [Programming 3](labs/dictionaries/00-overview.ipynb): Dictionaries | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 31 Mar
 5 | 25 Mar | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr
