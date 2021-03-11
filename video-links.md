@@ -31,3 +31,27 @@ Unfortunately the segment about the `geopandas` notebooks got recorded over zoom
 +   [Quick introduction to notebooks](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-9.mp4)
 +   [Overview of the functions and conditionals notebooks](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-10.mp4)
 +   [Overview of the assignment](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-11.mp4)
+
+## Week3 Iteration and sequences
+### Introduction
++ [Overview comments](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-01.mp4)
+### Iteration
++ [`while` loops](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-02.mp4)
++ [`for` loops](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-03.mp4)
++ [Iteration notebook](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-04.mp4)
+
+### Sequences
++ [Sequences, introducing `string`s and `list`s](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-05.mp4)
++ [Slicing sequences](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-06.mp4)
++ [`string` methods](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-07.mp4)
++ [`list` methods](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-08.mp4)
++ [Immutable `string`s, mutable `lists`](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-09.mp4)
++ [Sequences notebooks](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-10.mp4)
+
+### The `hangman` program
++ [Playing `hangman`](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-11.mp4)
++ [Overview of the `hangman` code](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-12.mp4)
+
+### Overview of ASSIGNMENT 2
++ [The overall goal and the provided code](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-13.mp4)
++ [The assignment itself](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-14.mp4)
