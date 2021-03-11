@@ -32,7 +32,7 @@ Unfortunately the segment about the `geopandas` notebooks got recorded over zoom
 +   [Overview of the functions and conditionals notebooks](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-10.mp4)
 +   [Overview of the assignment](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-11.mp4)
 
-## Week3 Iteration and sequences
+## Week 3 Iteration and sequences
 ### Introduction
 + [Overview comments](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-01.mp4)
 ### Iteration
