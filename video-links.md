@@ -55,3 +55,11 @@ Unfortunately the segment about the `geopandas` notebooks got recorded over zoom
 ### Overview of ASSIGNMENT 2
 + [The overall goal and the provided code](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-13.mp4)
 + [The assignment itself](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-14.mp4)
+
+## Week 4 Dictionaries and data decoding
+These materials were recorded in 2020, but I think they are clearer than the material recorded in 2021...
++ [Overview, introduction](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-01-intro.mp4) (12:25 min)
++ [Dictionaries part 1](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-02-dictionaries-part-1.mp4) (16:17 min)
++ [Dictionaries, part 2](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-03-dictionaries-part-2.mp4) (9:31 min)
++ [Assignment overview, part 1](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-04-assignment-overview-part-1.mp4) (13:17 min)
++ [Assignment overview, part 2](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-05-assignment-overview-part-2.mp4) (13:33 min)
