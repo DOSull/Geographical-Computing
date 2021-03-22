@@ -63,3 +63,13 @@ These materials were recorded in 2020, but I think they are clearer than the mat
 + [Dictionaries, part 2](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-03-dictionaries-part-2.mp4) (9:31 min)
 + [Assignment overview, part 1](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-04-assignment-overview-part-1.mp4) (13:17 min)
 + [Assignment overview, part 2](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-05-assignment-overview-part-2.mp4) (13:33 min)
+
+## Week 5 `geopandas` as a GIS
+These materials were recorded in 2020, but remain applicable this year.
++ [Overview](gisc-425-week-05-01-intro.mp4)
++ [Loading the data](gisc-425-week-05-02-loading-data.mp4)
++ [Buffering](gisc-425-week-05-03-buffers.mp4)
++ [Centroids and other spatial properties](gisc-425-week-05-04-centroids-etc.mp4)
++ [Spatial transformation](gisc-425-week-05-05-other-geometric-stuff.mp4)
++ [Spatial overlays and joins](gisc-425-week-05-06-overlay.mp4)
++ [Dissolves and merges](gisc-425-week-05-07-dissolve-merge.mp4)

@@ -48,7 +48,7 @@ Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes | 
 2 | 4 Mar | [Programming 1](https://southosullivan.com/gisc420/functions-and-conditionals/) functions and conditionals | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) | due 10 Mar | [Videos](video-links.md#week-2-functions-and-conditionals)
 3 | 11 Mar | [Programming 2](https://southosullivan.com/gisc420/sequences-and-iteration/): Loops, strings, and lists | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 24 Mar | [Videos](video-links.md#week-3-iteration-and-sequences)
 4 | 18 Mar | [Programming 3](labs/dictionaries/00-overview.ipynb): Dictionaries | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 31 Mar | [Videos](video-links.md#week-4-dictionaries-and-data-decoding)
-5 | 25 Mar | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr
+5 | 25 Mar | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr | [Videos](video-links.md#week-5-geopandas-as-a-gis)
 6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 31 May
  &nbsp; | 5 Apr - 16 Apr | **SEMESTER BREAK** | **NO TEACHING**
 7 | 22 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) and APIs; thinking algorithmically | A look at the `shapely` API<br />work on mini-projects
@@ -61,7 +61,7 @@ Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes | 
 ## Lectures
 Lectures will generally consist of up to an hour of presented material, and up to 30 minutes of more open-ended discussion and Q&A based on the materials and on reading which students will have been expected to do ahead of class. After that we will dive into the associated lab materials.
 
-### Readings
+### Readings  
 A really great introduction to Python is provided by this freely available PDF book (also available to purchase), from which readings will be assigned, especially in the first half of trimester.
 
 + Downey A. 2015. [*Think Python: How to think like a Computer Scientist*](https://greenteapress.com/thinkpython2/thinkpython2.pdf) 2nd edn. Green Tea Press, Needham, MA.
