@@ -57,17 +57,17 @@ You have the whole second half of trimester to work on this. The expectation in 
 + standalone python script that can apply the analysis method associated with your topic; or
 + ArcGIS or QGIS tools that implement the analysis method associated with your topic.
 
-The last of these would involve figuring out building plugins. I can try to help you with this, but we'll be learning together!
+The last of these would involve figuring out model builder (Arc) or model designer (Q), or perhaps even plugins. I can help you with this, but we'll be learning together!
 
 Alternative formats of submitted work are potentially allowable by agreement with me (arrange a meeting to discuss).
 
 Any submitted work *must* be thoroughly commented (this is important) either in the code, or if you submit notebooks, in the markdown cells in the notebook.
 
 ### Alone or in a pair
-You can work alone, or in a pair. There is a lot to be said for [pair programming](https://en.wikipedia.org/wiki/Pair_programming) so whatever reservations you might have about group work, you should strongly consider this option.
+You can work alone, or in a pair. I highly recommend the pair option. There is a lot to be said for [pair programming](https://en.wikipedia.org/wiki/Pair_programming) so whatever reservations you might have about group work, you should strongly consider this.
 
 ### Topic selection
 We'll see how it goes on this, but my strong preference is that every project be different. I can consider two people or pairs working on the same topic, but would prefer that this not be the case.
 
 ### Tools etc.
-We will spend time in class in the second half of semester on tools and approaches you need to make this work. What we cover will depend on problems and challenges faced by groups as they arise.
+We will spend time in class in the second half of semester on tools and approaches you need to make this work. Some of what we cover will depend on problems and challenges faced by groups as they arise.

@@ -49,7 +49,7 @@ Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes | 
 3 | 11 Mar | [Programming 2](https://southosullivan.com/gisc420/sequences-and-iteration/): Loops, strings, and lists | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) | due 24 Mar | [Videos](video-links.md#week-3-iteration-and-sequences)
 4 | 18 Mar | [Programming 3](labs/dictionaries/00-overview.ipynb): Dictionaries | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) | due 31 Mar | [Videos](video-links.md#week-4-dictionaries-and-data-decoding)
 5 | 25 Mar | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) | due 28 Apr | [Videos](video-links.md#week-5-geopandas-as-a-gis)
-6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/mini-project-ideas-and-scope.md) (30%) | due 31 May
+6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/) (30%) | due 31 May
  &nbsp; | 5 Apr - 16 Apr | **SEMESTER BREAK** | **NO TEACHING**
 7 | 22 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) and APIs; thinking algorithmically | A look at the `shapely` API<br />work on mini-projects
 8 | 29 Apr | [A glimpse of other languages: same only different](https://southosullivan.com/gisc420/other-languages/) | `pydeck` - making JavaScript using Python
