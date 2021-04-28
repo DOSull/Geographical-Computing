@@ -52,7 +52,7 @@ Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes | 
 6 | 1 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/) (30%) | due 31 May
  &nbsp; | 5 Apr - 16 Apr | **SEMESTER BREAK** | **NO TEACHING**
 7 | 22 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) and APIs; thinking algorithmically | A look at the `shapely` API<br />work on mini-projects
-8 | 29 Apr | Web-scraping and the DOM | [`BeautifulSoup`](labs/web-scraping/web-scraping.zip?raw=true)
+8 | 29 Apr | [Web-scraping and the DOM](labs/web-scraping/web-scraping-in-python.ipynb) | [`BeautifulSoup`](labs/web-scraping/web-scraping-in-python.ipynb?raw=true)
 9 | 6 May | QGIS and Arc APIs and automating GIS | `pyqgis` and/or `arcpy`  
 10 | 13 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc420/other-languages/) | `pydeck` - making JavaScript using Python
 11 | 20 May | Course review (ask me anything!) | Working on mini-projects
