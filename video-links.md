@@ -73,3 +73,32 @@ These materials were recorded in 2020, but remain applicable this year.
 + [Spatial transformation](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-05-other-geometric-stuff.mp4)
 + [Spatial overlays and joins](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-06-overlay.mp4)
 + [Dissolves and merges](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-07-dissolve-merge.mp4)
+
+## Week 7 Object orientation
+Again, these were recorded in 2020.
++ [Introduction](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-01-intro.mp4)
++ [Objects as data containers](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-02-objects-as-data-containers.mp4)
++ [Overriding built in functions](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-03-adding-builtin-functions.mp4)
++ [Adding class-specific methods to objects](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-04-adding-functionality.mp4)
+
+## Week 8 Web scraping
+New! For 2021...
+### HTML and the web
++ [The web in general](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-01.mp4) (6:03)
++ [A simple web page](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-02.mp4) (8:31)
++ [A more complicated web page](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-03.mp4) (5:38)
++ [Summing all that up](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-04.mp4) (5:00)
++ [Query parameters in a URL](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-05.mp4) (1:59)
+
+### Browser developer tools
++ [Way more complicated and browser developer tools](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-06.mp4) (6:51)
+
+### Grabbing data and APIs
++ [Grabbing the AED locations data](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-07.mp4) (11:01)
++ [APIs and why web scraping](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-08.mp4) (8:11)
+
+### Web scraping
++ [The DOM](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-09.mp4) (4:45)
++ [Introducing `BeautifulSoup4`](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-10.mp4) (8:10)
++ [Grabbing the data](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-11.mp4) (7:13)
++ [Making a scraper](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-12.mp4) (5:13)
