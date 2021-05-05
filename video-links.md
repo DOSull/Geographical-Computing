@@ -10,6 +10,7 @@ The sound on these is not great, I'm afraid.
 +   [Anaconda and IDLE](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-03-2021-anaconda-and-idle.mp4)
 +   [Overview of week's practical elements](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-04-2021-overview-of-instructions.mp4)
 
+***
 ## Week 2 Functions and conditionals
 Better sound on these but a bit chaotic at times with juggling people remote on zoom and people in the room!
 
@@ -32,6 +33,7 @@ Unfortunately the segment about the `geopandas` notebooks got recorded over zoom
 +   [Overview of the functions and conditionals notebooks](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-10.mp4)
 +   [Overview of the assignment](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-11.mp4)
 
+***
 ## Week 3 Iteration and sequences
 ### Introduction
 + [Overview comments](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-01.mp4)
@@ -56,6 +58,7 @@ Unfortunately the segment about the `geopandas` notebooks got recorded over zoom
 + [The overall goal and the provided code](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-13.mp4)
 + [The assignment itself](https://southosullivan.com/gisc420/videos/sequences-and-iteration/GISC-420-03-2021-14.mp4)
 
+***
 ## Week 4 Dictionaries and data decoding
 These materials were recorded in 2020, but I think they are clearer than the material recorded in 2021...
 + [Overview, introduction](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-01-intro.mp4) (12:25 min)
@@ -64,6 +67,7 @@ These materials were recorded in 2020, but I think they are clearer than the mat
 + [Assignment overview, part 1](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-04-assignment-overview-part-1.mp4) (13:17 min)
 + [Assignment overview, part 2](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-05-assignment-overview-part-2.mp4) (13:33 min)
 
+***
 ## Week 5 `geopandas` as a GIS
 These materials were recorded in 2020, but remain applicable this year.
 + [Overview](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-01-intro.mp4)
@@ -74,6 +78,7 @@ These materials were recorded in 2020, but remain applicable this year.
 + [Spatial overlays and joins](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-06-overlay.mp4)
 + [Dissolves and merges](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-07-dissolve-merge.mp4)
 
+***
 ## Week 7 Object orientation
 Again, these were recorded in 2020.
 + [Introduction](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-01-intro.mp4)
@@ -81,6 +86,7 @@ Again, these were recorded in 2020.
 + [Overriding built in functions](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-03-adding-builtin-functions.mp4)
 + [Adding class-specific methods to objects](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-04-adding-functionality.mp4)
 
+***
 ## Week 8 Web scraping
 New! For 2021...
 ### HTML and the web
