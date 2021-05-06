@@ -111,10 +111,26 @@ New! For 2021...
 
 ***
 ## Week 9 Automating GIS with python
-+ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-01.mp4) (7:51)
-+ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-02.mp4) (6:35)
-+ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-03.mp4) (6:52)
-+ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-04.mp4) (5:04)
-+ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-05.mp4) (9:51)
-+ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-06.mp4) (6:17)
-+ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-07.mp4) ()
+Some glitches at the start with getting that WFS layer into Q. And the sound is only OK, I'm afraid...
+### The python console and `pyqgis`
++ [The python console in QGIS and `pyqgis` the horror, the horror](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-01.mp4) (7:51)
++ [Doing some odds and ends in the console](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-02.mp4) (6:35)
++ [There is also an editor available... and why `pyqgis` is not very 'pythonic'](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-03.mp4) (6:52)
+
+(Try `import this` in a python console.)
+
+### Model designer
++ [Answer to a question about whether a simpler API would be possible in some other language](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-04.mp4) (5:04)
++ [Model designer intro and the sequence of operations for the polygon Voronoi model](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-05.mp4) (9:51)
++ [Automating that workflow...](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-06.mp4) (6:17)
++ [Models and generated code](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-07.mp4) (8:36)
++ [Some limitations of visual model builders](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-08.mp4) (9:58)
+
+### Use code!
++ [Use code instead!](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-09.mp4) (4:21)
+
+### Wrapping code in a model? No! Make a plugin
++ [Could you wrap code in a model?](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-10.mp4) (2:57)
++ [Digression about GTFS and the no. 29](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-11.mp4) (3:55)
++ [Some example plugins](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-12.mp4) (7:08)
++ [Reflections on sharing of avenue scripts and QGIS plugins, and final thoughts](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-13.mp4) (7:34)
