@@ -108,3 +108,13 @@ New! For 2021...
 + [Introducing `BeautifulSoup4`](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-10.mp4) (8:10)
 + [Grabbing the data](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-11.mp4) (7:13)
 + [Making a scraper](http://southosullivan.com/gisc420/videos/web-scraping/gisc-420-08-12.mp4) (5:13)
+
+***
+## Week 9 Automating GIS with python
++ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-01.mp4) (7:51)
++ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-02.mp4) (6:35)
++ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-03.mp4) (6:52)
++ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-04.mp4) (5:04)
++ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-05.mp4) (9:51)
++ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-06.mp4) (6:17)
++ [](http://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-07.mp4) ()
