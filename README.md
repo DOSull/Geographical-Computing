@@ -54,7 +54,7 @@ Week# | Date | Lecture topic | [Supporting materials](labs/README.md) | Notes | 
 7 | 22 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) and APIs; thinking algorithmically | A look at the `shapely` API<br />work on mini-projects | | [Videos](video-links.md#week-7-object-orientation)
 8 | 29 Apr | [Web-scraping and the DOM](labs/web-scraping/web-scraping-in-python.ipynb) | [`BeautifulSoup`](labs/web-scraping/web-scraping-in-python.ipynb?raw=true) | | [Videos](video-links.md#week-8-web-scraping)
 9 | 6 May | [Automating QGIS](labs/pyqgis/Exploring%20the%20python%20QGIS%20API.ipynb) | the [materials](labs/pyqgis/pyqgis.zip?raw=true) | | [Videos](video-links.md#week-9-automating-gis-with-python)
-10 | 13 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc420/other-languages/) | `pydeck` - making JavaScript using Python
+10 | 13 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc420/other-languages/) | [`pydeck` - making JavaScript using Python](labs/deck/tereo-name-pydeck-example.ipynb) | |
 11 | 20 May | Course review (ask me anything!) | Working on mini-projects
 12 | 27 May | **In-class 'e-test'** (25%) | Working on mini-projects
 
