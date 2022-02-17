@@ -71,7 +71,7 @@ With that in mind, rewrite your square drawing code to use a `for` loop. Note th
 ## Exercises from section 4.3
 These are taken directly from _Think Python_. They won't make much sense this week (we get to functions next week), but it is worth looking at them now, and revisiting them in the next while as you learn more about Python.
 
-The best way to do this is to open a new file in IDLE with **File - New File**. Type code in the file and when you are ready to try running it, save it to a file with a name ending in `.py` such as `square.py`. Once it is save, you run it with **Run - Run Module** (shortcut is **F5**). Keep in mind you'll need to import the `turtle` module as part of your program. Here's a [skeleton program file](square.py?raw=true) to get you started.
+The best way to do this is to open a new file in IDLE with **File - New File**. Type code in the file and when you are ready to try running it, save it to a file with a name ending in `.py` such as `square.py`. Once it is save, you run it with **Run - Run Module** (shortcut is **F5**). Keep in mind you'll need to import the `turtle` module as part of your program. Here's a [skeleton program file](square.py) to get you started.
 
 1. Write a function called `square` that takes a parameter named `t`, which is a turtle. It should use the turtle to draw a square.
 
