@@ -17,4 +17,4 @@ You should type it at the IDLE prompt and see what happens.
 
 It is also generally a good idea to work through material in the _Think Python_ book in this way. It's a much better way to learn than just reading.
 
-You will find similar material to these sets of instructions in Chapters 2 and 4 of [*Think Python: How to think like a Computer Scientist*](https://greenteapress.com/thinkpython2/thinkpython2.pdf), and I would encourage you to also work through those materials after this class.
+You will find similar material to these sets of instructions in Chapters 2 and 4 of [*Think Python: How to think like a Computer Scientist*](https://greenteapress.com/thinkpython2/thinkpython2.pdf), and I would encourage you to also work through those materials after this class to reinforce the ideas. Even if you have done a little programming before&mdash;*and even if it was in Python*&mdash;I find that it is useful to do this kind of work---you often find out things you didn't know! (I know I did.)
