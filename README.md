@@ -42,8 +42,8 @@ Lectures are in Cotton 110 at 9AM on Tuesdays and will be followed immediately b
 ## Lab and lecture timetable
 Here's the trimester schedule we will aim to follow. **Bolded labs** have an associated assignment that must be submitted and contributes the indicated percentage of the course credit.  Relevant materials (lecture slides, lab scripts and datasets) are linked below, when available.
 
-Date | Lecture topic | [Supporting materials](labs/README.md) | [Videos](video-links.md)
-:---- |:------------- |:--------- | :--
+Date | Lecture topic | [Lab materials](labs/README.md) | [Videos](video-links.md)
+:-:|:-|:-|:-:
 1 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md) | [Videos](video-links#week-1-introduction)
 8 Mar | [Programming 1](https://southosullivan.com/gisc420/functions-and-conditionals/) functions and conditionals | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) due 14 Mar | [Videos](video-links.md#week-2-functions-and-conditionals)
 15 Mar | [Programming 2](https://southosullivan.com/gisc420/sequences-and-iteration/): Loops, strings, and lists | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) due 28 Mar | [Videos](video-links.md#week-3-iteration-and-sequences)

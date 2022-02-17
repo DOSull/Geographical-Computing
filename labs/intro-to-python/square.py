@@ -7,12 +7,12 @@ import turtle
 
 # define a function to draw a square using turtle t
 def square(t):
-    # add code here to draw a square with a turtle called t
+    print("Replace this print statement with code to get t to draw a square")
 
 
 
 # You could write other functions here if you want, e.g
-def polygon(t, nsides):
+def polygon(t, n):
     # code to use turtle t to draw a polygon with nsides sides
 
 
