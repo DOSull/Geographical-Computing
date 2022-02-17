@@ -50,7 +50,7 @@ Date | Lecture topic | [Supporting materials](labs/README.md) | [Videos](video-l
 22 Mar | [Programming 3](labs/dictionaries/00-overview.ipynb): Dictionaries | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) due 4 Apr | [Videos](video-links.md#week-4-dictionaries-and-data-decoding)
 29 Mar | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) due 2 May | [Videos](video-links.md#week-5-geopandas-as-a-gis)
 5 Apr |  Beyond notebooks: virtual environments, IDEs and version control | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/) (30%) due 3 Jun
-| **SEMESTER BREAK** | **NO TEACHING**
+&nbsp; | **SEMESTER BREAK** | **NO TEACHING**
 26 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) and APIs; thinking algorithmically | A look at the `shapely` API<br />work on mini-projects | [Videos](video-links.md#week-7-object-orientation)
 3 May | [Web-scraping and the DOM](labs/web-scraping/web-scraping-in-python.ipynb) | [`BeautifulSoup`](labs/web-scraping/web-scraping-in-python.ipynb?raw=true) | [Videos](video-links.md#week-8-web-scraping)
 10 May | [Automating QGIS](labs/pyqgis/Exploring%20the%20python%20QGIS%20API.ipynb) | the [materials](labs/pyqgis/pyqgis.zip?raw=true) | [Videos](video-links.md#week-9-automating-gis-with-python)
