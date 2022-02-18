@@ -6,11 +6,8 @@ Recent years have seen the (re)emergence of programmatic approaches to geographi
 The pages on this site are continuously updated. While material evolves from earlier versions to that current for this year (2022) for lab materials in particular you should confirm that the heading indicates that the material is current for 2022 so that you don't waste time completing earlier versions of assignments!
 
 ## COVID provisions
-This is a small class and much of it can be completed remotely so we are pretty well-placed to handle the uncertainties of the COVID situation, provided we stay in close contact with one another. There will be face to face lab sessions in Cotton 110, but if we have to we can revert easily to remote, and details will be provided as needed.
+More information [here](covid.md).
 
-We can record and stream from Cotton 110, although it's not very satisfactory, so if you can attend and class is running face to face, then it's best that we do that.
-
-On the other hand, with a small group, if everyone preferred remote, we could move completely to that mode from day 1. That would depend more on you having access to necessary computing capability. We can discuss arrangements in the first class session on 1 March.
 
 ## Link to video segments from zoom sessions
 A consolidated list of the video material for this class is available on [this page](video-links.md). Note that some video content is from earlier years, but remains relevant.
