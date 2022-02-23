@@ -6,8 +6,7 @@ Recent years have seen the (re)emergence of programmatic approaches to geographi
 The pages on this site are continuously updated. While material evolves from earlier versions to that current for this year (2022) for lab materials in particular you should confirm that the heading indicates that the material is current for 2022 so that you don't waste time completing earlier versions of assignments!
 
 ## COVID provisions
-More information [here](covid.md).
-
+More information [here](covid.md). The class zoom session information is on [Blackboard](https://blackboard.vuw.ac.nz/webapps/blackboard/content/listContentEditable.jsp?content_id=_3363860_1&course_id=_117008_1&mode=reset "login required")
 
 ## Link to video segments from zoom sessions
 A consolidated list of the video material for this class is available on [this page](video-links.md). Note that some video content is from earlier years, but remains relevant.
