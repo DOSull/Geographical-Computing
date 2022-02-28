@@ -40,7 +40,7 @@ Here's the trimester schedule we will aim to follow. **Bolded labs** have an ass
 
 Date | Lecture topic | [Lab materials](labs/README.md) | [Videos](video-links.md)
 :-:|:-|:-|:-:
-1 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md) | [Videos](video-links#week-1-introduction)
+1 Mar | Course overview; why python; variables and operators | [Introduction to Python code](labs/intro-to-python/README.md) | [Videos](video-links.md#week-1-introduction)
 8 Mar | [Programming 1](https://southosullivan.com/gisc420/functions-and-conditionals/) functions and conditionals | [**`geopandas`: working with spatial data using code**](labs/intro-to-geopandas/intro-to-geopandas.zip?raw=true) (5%) due 14 Mar | [Videos](video-links.md#week-2-functions-and-conditionals)
 15 Mar | [Programming 2](https://southosullivan.com/gisc420/sequences-and-iteration/): Loops, strings, and lists | [**Loops and iteration**](labs/sequences-and-iteration/sequences-and-iteration.zip?raw=true) (10%) due 28 Mar | [Videos](video-links.md#week-3-iteration-and-sequences)
 22 Mar | [Programming 3](labs/dictionaries/00-overview.ipynb): Dictionaries | [**Reclassify complex landuse data programmatically**](labs/dictionaries/dictionaries.zip?raw=true) (15%) due 4 Apr | [Videos](video-links.md#week-4-dictionaries-and-data-decoding)
