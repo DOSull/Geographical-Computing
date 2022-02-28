@@ -60,7 +60,7 @@ Lectures will generally consist of an hour or so of presented material, and up t
 ### Readings  
 A really great introduction to Python is provided by this freely available PDF book (also available to purchase), from which readings will be assigned, especially in the first half of trimester.
 
-+ Downey A. 2015. [*Think Python: How to think like a Computer Scientist*](https://greenteapress.com/thinkpython2/thinkpython2.pdf) 2nd edn. Green Tea Press, Needham, MA.
++ Downey A. 2015. [*Think Python: How to Think Like a Computer Scientist*](https://greenteapress.com/thinkpython2/thinkpython2.pdf) 2nd edn. Green Tea Press, Needham, MA.
 
 Other useful resources are generally found online and will be called out in lectures as we proceed or provided via Blackboard if needed.
 
