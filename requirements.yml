@@ -1,0 +1,20 @@
+name: g420
+channels:
+  - conda-forge
+dependencies:
+- python=3.9
+- pip>=21
+- jupyterlab
+- ipywidgets
+- mapclassify
+- pysal
+- numpy
+- scipy
+- matplotlib
+- geopandas
+- networkx
+- osmnx
+- pip:
+  - black
+  - pylint
+  - pytest
