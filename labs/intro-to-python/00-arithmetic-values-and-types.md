@@ -31,7 +31,7 @@ It's traditional when learning to program to first learn how to get the computer
 Hello World
 ```
 
-Type that in the IDLE console and see what happens.
+Type that at the python prompt and see what happens.
 
 ## Python arithmetic
 Try running the commands below and see what happens.
