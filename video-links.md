@@ -1,14 +1,16 @@
-#### GISC 420 T1 2021
+#### GISC 420 T1 2022 (always under construction!)
 
 # Consolidated index of video content
 
 ## Week 1 Introduction
-The sound on these is not great, I'm afraid.
+These are a mix of videos from 2021 and 2022, depending on which seem most useful.
 
-+   [Syllabus overview](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-01-2021-syllabus.mp4)
-+   [The command line](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-02-2021-the-command-line.mp4)
-+   [Anaconda and IDLE](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-03-2021-anaconda-and-idle.mp4)
-+   [Overview of week's practical elements](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-04-2021-overview-of-instructions.mp4)
++ [Computing and interfaces (2021)](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-02-2021-the-command-line.mp4) 4m26s (this is a bit rambly...)
++ [Why we use conda environments (2022)](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-01-2022-why-conda-why-environments.mp4) 13m40s
++ [Checking `conda` is installed (2022)](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-02-2022-checking-conda-is-installed.mp4) 1m09s
++ [Building the `g420` environment (2022)](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-03-2022-building-the-g420-environment.mp4) 2m58s
++ [Running IDLE (2022)](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-04-2022-running-IDLE.mp4) 3m40s
++ [Overview of week's practical elements (2021)](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-04-2021-overview-of-instructions.mp4) 4m50s
 
 ***
 ## Week 2 Functions and conditionals
