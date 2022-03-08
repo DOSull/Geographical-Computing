@@ -13,20 +13,39 @@ These are a mix of videos from 2021 and 2022, depending on which seem most usefu
 + [Overview of week's practical elements (2021)](https://southosullivan.com/gisc420/videos/introduction/gisc-420-week-01-04-2021-overview-of-instructions.mp4) 4m50s
 
 ***
+
 ## Week 2 Functions and conditionals
-Better sound on these but a bit chaotic at times with juggling people remote on zoom and people in the room!
+### Introduction and practical aspects
++ [Getting to the materials](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-01.mp4) 2m02s
++ [Unpacking the notebook materials and getting started](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-02.mp4) 1m34s
++ [Introducing jupyter notebooks](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-03.mp4) 6m16s
 
 ### Slides about functions
-+   [Introduction and expanding the language](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-1.m4v)
-+   [Defining your own](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-2.m4v)
-+   [Building blocks of complex programs](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-3.m4v)
-+   [Oops... brief coda about parameters and arguments](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-4.m4v)
++ [Defining a function](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-04.mp4) 7m38s
++ [Function parameters](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-05.mp4) 2m55s
 
 ### Slides about conditionals
-+   [Conditionals and the flow of program execution](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-5.m4v)
-+   [Boolean expressions with `True` and `False` and `and`, `or` and `not`](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-6.m4v)
-+   [Evaluation of Boolean expressions](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-7.m4v)
-+   [`if` and `else`](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-8.m4v)
+These are from 2021, because I forgot to hit record this time around (oops)
+
++ [Conditionals and the flow of program execution](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-5.m4v)
++ [Boolean expressions with `True` and `False` and `and`, `or` and `not`](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-6.m4v)
++ [Evaluation of Boolean expressions](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-7.m4v)
++ [`if` and `else`](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-8.m4v)
+
+### Introducing `geopandas`
++ [Introducing `geopandas`](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-06.mp4) 4m50s
++ [Opening a spatial dataset and a simple map](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-07.mp4) 4m21s
++ [Mapping data: choropleth maps](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-08.mp4) 5m10s
++ [Multipanel maps](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-09.mp4) 1m22s
+
+### Projections in `geopandas`
++ [Dealing with projections](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-10.mp4) 6m45s
+
+### The assignment
++ [Preamble materials](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-11.mp4) 12m33s
++ [The assignment itself](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-2022-02-12.mp4) 3m18s
+
+***
 
 ### Notebooks
 Unfortunately the segment about the `geopandas` notebooks got recorded over zoom remote attendee avatars, not a view of the screen, so you'll have to figure that part out for yourself (ask in the slack!). The useful video we did capture is below:
