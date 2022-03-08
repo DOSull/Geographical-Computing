@@ -47,14 +47,6 @@ These are from 2021, because I forgot to hit record this time around (oops)
 
 ***
 
-### Notebooks
-Unfortunately the segment about the `geopandas` notebooks got recorded over zoom remote attendee avatars, not a view of the screen, so you'll have to figure that part out for yourself (ask in the slack!). The useful video we did capture is below:
-
-+   [Quick introduction to notebooks](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-9.m4v)
-+   [Overview of the functions and conditionals notebooks](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-10.m4v)
-+   [Overview of the assignment](https://southosullivan.com/gisc420/videos/functions-and-conditionals/GISC-420-02-2021-11.m4v)
-
-***
 ## Week 3 Iteration and sequences
 ### Introduction
 + [Overview comments](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-01.m4v)
