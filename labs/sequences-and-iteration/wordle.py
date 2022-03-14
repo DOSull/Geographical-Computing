@@ -1,10 +1,5 @@
-# Hangman script to demonstrate conditionals
-#
-# David O'Sullivan
-# Originally written March 2005
-# Lightly modified several times since
-
-# Updated to Python 3 March 2019
+# World script because 2021
+# David O'Sullivan 2022
 
 # the random module allows for randomization functions
 import random
@@ -22,11 +17,11 @@ def score_attempt(attempt, word, green = "x", yellow = "o", grey = "."):
                 other_matches.append(i)
                 other_letters.remove(attempt[i])
     clue = [grey] * 5
-    for i in matches:
+    for i in matches:S
         clue[i] = attempt[i].upper()
     for i in other_matches:
         clue[i] = attempt[i].lower()
-    return "".join(clue)
+    return "".join(clue)S
 
 # open and read files of words
 with open('wordlist.txt') as f:
@@ -49,7 +44,6 @@ lower case. If it is not in the word at all I will mark it .\n""")
 # break from loop to end program
 while True:
     guess_number = 1
-    unused_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     # select a word at random from the file
     word = random.choice(answers).lower()
 
