@@ -49,27 +49,27 @@ These are from 2021, because I forgot to hit record this time around (oops)
 
 ## Week 3 Iteration and sequences
 ### Introduction
-+ [Overview comments](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-01.m4v)
++ [Overview comments](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-01.m4v) 1m32s
 ### Iteration
-+ [`while` loops](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-02.m4v)
-+ [`for` loops](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-03.m4v)
-+ [Iteration notebook](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-04.m4v)
++ [`while` loops](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-02.m4v) 8m01s
++ [`for` loops](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-03.m4v) 3m24s
++ [Iteration notebook](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-04.m4v) 2m39s
 
 ### Sequences
-+ [Sequences, introducing `string`s and `list`s](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-05.m4v)
-+ [Slicing sequences](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-06.m4v)
-+ [`string` methods](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-07.m4v)
-+ [`list` methods](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-08.m4v)
-+ [Immutable `string`s, mutable `lists`](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-09.m4v)
-+ [Sequences notebooks](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-10.m4v)
++ [Sequences, introducing `string`s and `list`s](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-05.m4v) 5m57s
++ [Slicing sequences](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-06.m4v) 4m05s
++ [`string` methods](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-07.m4v) 2m57s
++ [`list` methods](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-08.m4v) 1m00s
++ [Immutable `string`s, mutable `lists`](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-09.m4v) 4m17s
++ [Sequences notebooks](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-10.m4v) 1m31s
 
 ### The `hangman` program
-+ [Playing `hangman`](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-11.m4v)
-+ [Overview of the `hangman` code](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-12.m4v)
++ [Playing `hangman`](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-11.m4v) 6m15s
++ [Overview of the `hangman` code](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-12.m4v) 10m03s
 
 ### Overview of ASSIGNMENT 2
-+ [The overall goal and the provided code](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-13.m4v)
-+ [The assignment itself](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2021-14.m4v)
++ [The overall goal and the provided code](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2022-1.mp4) 8m53s
++ [The assignment itself](https://southosullivan.com/gisc420/videos/strings-lists-loops/GISC-420-03-2022-2.mp4) 5m31s
 
 ***
 ## Week 4 Dictionaries and data decoding
