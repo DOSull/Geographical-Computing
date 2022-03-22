@@ -73,12 +73,21 @@ These are from 2021, because I forgot to hit record this time around (oops)
 
 ***
 ## Week 4 Dictionaries and data decoding
-These materials were recorded in 2020, but I think they are clearer than the material recorded in 2021...
-+ [Overview, introduction](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-01-intro.mp4) (12:25 min)
-+ [Dictionaries part 1](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-02-dictionaries-part-1.mp4) (16:17 min)
-+ [Dictionaries, part 2](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-03-dictionaries-part-2.mp4) (9:31 min)
-+ [Assignment overview, part 1](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-04-assignment-overview-part-1.mp4) (13:17 min)
-+ [Assignment overview, part 2](http://southosullivan.com/gisc420/videos/dictionaries/gisc-425-week-04-05-assignment-overview-part-2.mp4) (13:33 min)
+### How dictionaries work
++ [Dictionaries and me](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-01.mp4) (1m19s)
++ [Overview of dictionaries](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-02.mp4) (2m30s)
++ [A silly example: Te Reo - English translation](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-03.mp4) (2m25s)
++ [The basic features of dictionaries](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-04.mp4) ()
++ [Inverting dictionaries to get the reverse lookup from values to keys](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-05.mp4) (3m48s)
+
+### Two ways to use dictionaries: counting and memoizing
++ [Counting using a dictionary](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-06.mp4) (9m23s)
++ [Memoizing a function using a dictionary](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-07.mp4) (11m51s)
++ [`cachetools`](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-08.mp4) (1m55s)
+
+### Overview of ASSIGNMENT 3
++ [The land resource inventory data](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-09.mp4) (9m11s)
++ [An outline solution](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-04-10.mp4) (8m17s)
 
 ***
 ## Week 5 `geopandas` as a GIS
