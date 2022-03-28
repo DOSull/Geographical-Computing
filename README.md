@@ -48,7 +48,7 @@ Date | Lecture topic | [Lab materials](labs/README.md) | [Videos](video-links.md
 5 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) [[download notebook](labs/object-orientation/object-orientation.ipynb?raw=true)] and APIs; thinking algorithmically | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/) (30%) due 3 Jun
 &nbsp; | **SEMESTER BREAK** | **NO TEACHING**
 26 Apr | Beyond notebooks: virtual environments, IDEs and version control | A look at the `shapely` API<br />work on mini-projects | [Videos](video-links.md#week-7-object-orientation)
-3 May | [Web-scraping and the DOM](labs/web-scraping/web-scraping-in-python.ipynb) | [`BeautifulSoup`](labs/web-scraping/web-scraping-in-python.ipynb?raw=true) | [Videos](video-links.md#week-8-web-scraping)
+3 May | [Web-scraping and the DOM](labs/web-scraping/web-scraping-in-python.ipynb) | [`BeautifulSoup`](labs/web-scraping/web-scraping-in-python.ipynb?download=true) | [Videos](video-links.md#week-8-web-scraping)
 10 May | [Automating QGIS](labs/pyqgis/Exploring%20the%20python%20QGIS%20API.ipynb) | the [materials](labs/pyqgis/pyqgis.zip?raw=true) | [Videos](video-links.md#week-9-automating-gis-with-python)
 17 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc420/other-languages/) | [`pydeck` - making JavaScript using Python](labs/deck/tereo-name-pydeck-example.ipynb) |
 24 May | Course review (ask me anything!) | Working on mini-projects
