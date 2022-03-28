@@ -101,7 +101,7 @@ These materials were recorded in 2020, but remain applicable this year.
 + [Dissolves and merges](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-07-dissolve-merge.mp4)
 
 ***
-## Week 7 Object orientation
+## Week 6 Object orientation
 Again, these were recorded in 2020.
 + [Introduction](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-01-intro.mp4)
 + [Objects as data containers](http://southosullivan.com/gisc420/videos/object-orientation/gisc-425-object-orientation-02-objects-as-data-containers.mp4)
