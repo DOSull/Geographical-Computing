@@ -4,7 +4,7 @@
 Here are some topic ideas to consider and discuss. To begin, don't worry too much about *how*, think more about how much you are interested (or not) in each one. Alternatively think up an [idea of your own](#your-idea-here) to work on.
 
 ### Isochrones
-Have a look at [this website](https://mapnificent.net), which enables you to generate public transport isochrones for a chosen location in many major cities (including Wellington, although I don't know if it has tried using the buses lately...).  You could also read [my masters dissertation](http://southosullivan.com/msc/mastersThesis.pdf) or [this paper](https://dx.doi.org/10.1080/136588100240976) I wrote based on it.
+Have a look at [this website](https://www.mapnificent.net/), which enables you to generate public transport isochrones for a chosen location in many major cities (including Wellington, although I don't know if it has tried using the buses lately...).  You could also read [my masters dissertation](http://southosullivan.com/msc/mastersThesis.pdf) or [this paper](https://www.tandfonline.com/doi/abs/10.1080/136588100240976) I wrote based on it.
 
 An isochrone map shows lines of equal travel time from an origin location, based on a specified form of transport. In some respects transit isochrone maps are more interesting than car or bike or walking ones. For car/bike/walking isochrones, take a look at [this example](https://github.com/gboeing/osmnx-examples/blob/master/notebooks/13-isolines-isochrones.ipynb), using [OSMnx](https://github.com/gboeing/osmnx). For transit isochrones, [GTFS data](http://gtfs.org/) are likely to be of interest&mdash;and there are even [ESRI tools available](https://esri.github.io/public-transit-tools/).
 
