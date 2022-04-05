@@ -106,7 +106,7 @@ These materials were recorded in 2020, but remain applicable this year.
 + [Introduction to OOP](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-01.mp4) 7m45s
 + [A minimalist class that contains data](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-02.mp4) 8m27s
 + [Copying an object with `copy.copy()`](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-03.mp4) 1m35s
-+ [Objects as more than data containers](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-04.mp4) 6m11s
++ [Objects as more than data containers](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-04.mp4) 6m11s **Note**: I seem to have cut the last 10s or so from that one, but you get the idea...
 + [How the class constructor imposes expectations on data](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-05.mp4) 3m05s
 + ['Dunder' methods (plus digression about `self`)](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-06.mp4) 9m17s
 + [Adding specialised methods to our class](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-07.mp4) 
