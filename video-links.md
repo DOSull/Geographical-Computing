@@ -101,28 +101,29 @@ These materials were recorded in 2020, but remain applicable this year.
 + [Dissolves and merges](http://southosullivan.com/gisc420/videos/geopandas-as-gis/gisc-425-week-05-07-dissolve-merge.mp4)
 
 ***
+
 ## Week 6 Object orientation
-+ [Introduction to OOP](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-01.mp4) 7m45s
-+ [A minimalist class that contains data](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-02.mp4) 8m27s
-+ [Copying an object with `copy.copy()`](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-03.mp4) 1m35s
-+ [Objects as more than data containers](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-04.mp4) 6m11s
-+ [How the class constructor imposes expectations on data](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-05.mp4) 3m05s
-+ ['Dunder' methods (plus digression about `self`)](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-06.mp4) 9m17s
-+ [Adding specialised methods to our class](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-07.mp4) 
++ [Introduction to OOP](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-01.mp4) 7m45s
++ [A minimalist class that contains data](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-02.mp4) 8m27s
++ [Copying an object with `copy.copy()`](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-03.mp4) 1m35s
++ [Objects as more than data containers](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-04.mp4) 6m11s
++ [How the class constructor imposes expectations on data](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-05.mp4) 3m05s
++ ['Dunder' methods (plus digression about `self`)](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-06.mp4) 9m17s
++ [Adding specialised methods to our class](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-07.mp4) 
 2m40s
-+ [`dataclass` objects](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-08.mp4) 3m25s
-+ [Composing more complex classes from simple ones](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-09.mp4) 8m14s  **Note**: probably shouldn't use a `tuple` of `Point`s in case we might want the `Polygon` vertices to be mutable.
++ [`dataclass` objects](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-08.mp4) 3m25s
++ [Composing more complex classes from simple ones](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-09.mp4) 8m14s  **Note**: probably shouldn't use a `tuple` of `Point`s in case we might want the `Polygon` vertices to be mutable.
 
 ### The mini-project and me rambling about some potential topics
 Nothing to see here really..., but for completeness...
 
-+ [Overview](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-10.mp4) 2m26s
-+ [Isochrones](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-11.mp4) 4m21s
-+ [Multitype Voronoi](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-12.mp4) 2m15s
-+ [Gerrymandering and zone design](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-13.mp4) 6m09s
-+ [Cartograms](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-14.mp4) 2m49s
-+ [Visibility graphs](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-15.mp4) 1m42s
-+ [Woven maps](http://southosullivan.com/gisc420/videos/dictionaries/gisc-420-2022-week-06-16.mp4) 5m23s 
++ [Overview](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-10.mp4) 2m26s
++ [Isochrones](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-11.mp4) 4m21s
++ [Multitype Voronoi](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-12.mp4) 2m15s
++ [Gerrymandering and zone design](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-13.mp4) 6m09s
++ [Cartograms](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-14.mp4) 2m49s
++ [Visibility graphs](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-15.mp4) 1m42s
++ [Woven maps](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-16.mp4) 5m23s 
 
 ***
 ## Week 8 Web scraping
