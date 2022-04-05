@@ -15,7 +15,7 @@ Voronoi (or Thiessen or Dirichlet or proximity) polygons are heavily used in GIS
 
 <img src="voronoi-brooklyn.png" width=60%><br />
 
-I made this example with a series of steps in QGIS. The idea of this project would be to make some scripts that can take a combination of input layers of various kinds, and make a single set of Voronoi polygons from them. Again, there is some guidance to doing a similar task to this in QGIS using a model design in [this session]("../pyqgis/Exploring the python QGIS API.ipynb#"). This project would be about a `geopandas` based solution.
+I made this example with a series of steps in QGIS. The idea of this project would be to make some scripts that can take a combination of input layers of various kinds, and make a single set of Voronoi polygons from them. Again, there is some guidance to doing a similar task to this in QGIS using a model design in [this session](../pyqgis/Exploring%20the%20python%20QGIS%20API.ipynb#). This project would be about a `geopandas` based solution.
 
 ### Gerrymandering and/or the US electoral college
 It's always US election season and there are midterms coming up this year up in a few months. Recent US electoral traumas have brought the issue of gerrymandering to increased public attention. There are various spatial dimensions to the issue and this project would involve exploring the issue by writing code that could generate alternative redistricting maps. For inspiration take a look at [Random States of America](http://fakeisthenewreal.org/random-states-of-america/) and [Redraw the States](http://kevinhayeswilson.com/redraw/). I did some work on this a while back and you can see code for that [here](https://github.com/data-8/geography-88/blob/master/session4/ASSIGNMENT-2-MAUP.ipynb).
@@ -48,7 +48,7 @@ You can probably do visibility analyses most easily using ESRI's products, so in
 Isochrones are an example of one approach to measuring accessibility. More generally, we can look at things like the availability of bus routes, proximity to bus stops, frequency of services, proximity to rail stations. This topic would involve exploring such approaches, using GTFS data (see [above](#isochrones)).
 
 ### Woven maps
-This summer I put together some _R_ code to produce ['woven' maps of multivariate data](https://dosull.github.io/tiling-space/make-weave-map.html). Recently (last week!) I rewrote most of it in python using `geopandas`, `numpy` and `shapely`, because I think it will prove more extensible in python using some of the object-oriented features of the language. This project would be to extend this code in some way. The code is all in [this repo](https://github.com/DOSull/tiling-space). 
+This summer I put together some _R_ code to produce ['woven' maps of multivariate data](https://dosull.github.io/weaving-space/make-weave-map.html). Recently (last week!) I rewrote most of it in python using `geopandas`, `numpy` and `shapely`, because I think it will prove more extensible in python using some of the object-oriented features of the language. This project would be to extend this code in some way. The code is all in [this repo](https://github.com/DOSull/weaving-space). 
 
 ### Your idea here
 Something completely different!
