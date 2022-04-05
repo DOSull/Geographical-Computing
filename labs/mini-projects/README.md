@@ -48,7 +48,7 @@ You can probably do visibility analyses most easily using ESRI's products, so in
 Isochrones are an example of one approach to measuring accessibility. More generally, we can look at things like the availability of bus routes, proximity to bus stops, frequency of services, proximity to rail stations. This topic would involve exploring such approaches, using GTFS data (see [above](#isochrones)).
 
 ### Woven maps
-This summer I put together some _R_ code to produce ['woven' maps of multivariate data](https://dosull.github.io/weaving-space/make-weave-map.html). Recently (last week!) I rewrote most of it in python using `geopandas`, `numpy` and `shapely`, because I think it will prove more extensible in python using some of the object-oriented features of the language. This project would be to extend this code in some way. The code is all in [this repo](https://github.com/DOSull/weaving-space). 
+This summer I put together some _R_ code to produce ['woven' maps of multivariate data](https://dosull.github.io/weaving-space/NZCS-Nov-2021/make-weave-map.html). Recently (last week!) I rewrote most of it in python using `geopandas`, `numpy` and `shapely`, because I think it will prove more extensible in python using some of the object-oriented features of the language. This project would be to extend this code in some way. The code is all in [this repo](https://github.com/DOSull/weaving-space). 
 
 ### Your idea here
 Something completely different!
