@@ -11,15 +11,15 @@ More information [here](covid.md). The class zoom session information is on [Bla
 ## Link to video segments from zoom sessions
 A consolidated list of the video material for this class is available on [this page](video-links.md). Note that some video content is from earlier years, but remains relevant.
 
-Item | Dates
- -- | --
-Trimester | 28 February to 28 June 2022
-Teaching period | 28 February to 3 June 2022
-Mid-trimester break | 11 April to 25 April 2022
+Item                     | Dates
+ --                      | --
+Trimester                | 28 February to 28 June 2022
+Teaching period          | 28 February to 3 June 2022
+Mid-trimester break      | 11 April to 25 April 2022
 Last assessment item due | 3 June 2022
-Study period | NA
-Examination period | NA
-Withdrawal dates | See [Course additions and  withdrawals](https://www.wgtn.ac.nz/home/admisenrol/payments/withdrawalsrefunds "Course additions and withdrawals")
+Study period             | NA
+Examination period       | NA
+Withdrawal dates         | See [Course additions and  withdrawals](https://www.wgtn.ac.nz/home/admisenrol/payments/withdrawalsrefunds "Course additions and withdrawals")
 
 If you cannot complete an assignment or sit a test or examination, refer to [Aegrotats](www.wgtn.ac.nz/home/study/exams-and-assessments/aegrotat)
 
@@ -47,7 +47,7 @@ Date | Lecture topic | [Lab materials](labs/README.md) | [Videos](video-links.md
 29 Mar | [`geopandas` as a GIS](labs/geopandas-as-gis/00-overview.ipynb) | [**Perform basic GIS operations in `geopandas`**](labs/geopandas-as-gis/geopandas-as-gis.zip?raw=true) (15%) due 2 May | [Videos](video-links.md#week-5-geopandas-as-a-gis)
 5 Apr | Programming 4: [Objects](labs/object-orientation/object-orientation.ipynb) [[right-click download](labs/object-orientation/object-orientation.ipynb?raw=true)] and APIs; thinking algorithmically | Introducing some potential project topics<br />[**Mini-programming project**](labs/mini-projects/) (30%) due 3 Jun | [Videos](video-links.md#week-6-object-orientation)
 &nbsp; | **SEMESTER BREAK** | **NO TEACHING**
-26 Apr | Beyond notebooks: virtual environments, IDEs and version control | A look at the `shapely` API<br />work on mini-projects |
+26 Apr | [Random other stuff](labs/random-other-stuff/00-overview.ipynb) | [Random other stuff materials](labs/random-other-stuff/random-other-stuff.zip?raw=true)<br />Setting up working environments for the projects |
 3 May | [Web-scraping and the DOM](labs/web-scraping/web-scraping-in-python.ipynb) | [`BeautifulSoup`](labs/web-scraping/web-scraping-in-python.ipynb?download=true) | [Videos](video-links.md#week-8-web-scraping)
 10 May | [Automating QGIS](labs/pyqgis/Exploring%20the%20python%20QGIS%20API.ipynb) | the [materials](labs/pyqgis/pyqgis.zip?raw=true) | [Videos](video-links.md#week-9-automating-gis-with-python)
 17 May | [A glimpse of other languages: same only different](https://southosullivan.com/gisc420/other-languages/) | [`pydeck` - making JavaScript using Python](labs/deck/tereo-name-pydeck-example.ipynb) |
