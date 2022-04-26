@@ -126,6 +126,37 @@ Nothing to see here really..., but for completeness...
 + [Woven maps](http://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-16.mp4) 5m23s 
 
 ***
+
+## Week 7 Random other stuff and working environments
++ [Introductory comments](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-01.mp4) 1m18s
+
+### Trivia
++ [Indentation tricks](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-02.mp4) 7m10s
+
+### Smart function signatures 
++ [Default values](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-03.mp4) 4m00s
++ [Arbitrary numbers of arguments](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-04.mp4) 4m22s
++ [Keyword arguments](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-05.mp4) 2m50s
++ [Putting it all together](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-06.mp4) 3m06s
+
+### List comprehensions
++ [What they are](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-07.mp4) 3m07s
++ [Two trivial reasons to use them](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-08.mp4) 2m16s
++ [Performance... take 1, where I get flustered](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-09.mp4) 2m43s
++ [Performance... take 2, which is not as bad...](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-10.mp4) 1m31s
++ [`map` and comprehensions](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-11.mp4) 6m21s
+
+### Importing modules
++ [Importing modules](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-12.mp4) 6m21s
+
+### Working on a project with conda, git and VSCode
++ [`conda` environments... with more technical glitches](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-13.mp4) 5m22s
++ [An overview of github](http://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-14.mp4) 7m28s
++ [History on github and cloning a repo locally](http://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-15.mp4) 6m41s
++ [VSCode and your project](http://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-16.mp4) 9m45s 
+
+---
+
 ## Week 8 Web scraping
 New! For 2021...
 ### HTML and the web
