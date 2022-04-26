@@ -150,7 +150,7 @@ Nothing to see here really..., but for completeness...
 + [Importing modules](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-12.mp4) 6m21s
 
 ### Working on a project with conda, git and VSCode
-+ [`conda` environments... with more technical glitches](http://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-13.mp4) 5m22s
++ [`conda` environments... with more technical glitches](http://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-13.mp4) 5m22s
 + [An overview of github](http://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-14.mp4) 7m28s
 + [History on github and cloning a repo locally](http://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-15.mp4) 6m41s
 + [VSCode and your project](http://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-16.mp4) 9m45s 
