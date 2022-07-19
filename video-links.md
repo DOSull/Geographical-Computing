@@ -109,7 +109,7 @@ These materials were recorded in 2020, but remain applicable this year.
 + [Objects as more than data containers](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-04.mp4) 6m11s **Note**: I seem to have cut the last 10s or so from that one, but you get the idea...
 + [How the class constructor imposes expectations on data](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-05.mp4) 3m05s
 + ['Dunder' methods (plus digression about `self`)](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-06.mp4) 9m17s
-+ [Adding specialised methods to our class](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-07.mp4) 
++ [Adding specialised methods to our class](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-07.mp4)
 2m40s
 + [`dataclass` objects](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-08.mp4) 3m25s
 + [Composing more complex classes from simple ones](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-09.mp4) 8m14s  **Note**: probably shouldn't use a `tuple` of `Point`s in case we might want the `Polygon` vertices to be mutable.
@@ -123,7 +123,7 @@ Nothing to see here really..., but for completeness...
 + [Gerrymandering and zone design](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-13.mp4) 6m09s
 + [Cartograms](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-14.mp4) 2m49s
 + [Visibility graphs](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-15.mp4) 1m42s
-+ [Woven maps](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-16.mp4) 5m23s 
++ [Woven maps](https://southosullivan.com/gisc420/videos/object-orientation/gisc-420-2022-week-06-16.mp4) 5m23s
 
 ***
 
@@ -133,7 +133,7 @@ Nothing to see here really..., but for completeness...
 ### Trivia
 + [Indentation tricks](https://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-02.mp4) 7m10s
 
-### Smart function signatures 
+### Smart function signatures
 + [Default values](https://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-03.mp4) 4m00s
 + [Arbitrary numbers of arguments](https://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-04.mp4) 4m22s
 + [Keyword arguments](https://southosullivan.com/gisc420/videos/random-other-stuff/gisc-420-2022-week-07-05.mp4) 2m50s
@@ -153,7 +153,7 @@ Nothing to see here really..., but for completeness...
 + [`conda` environments... with more technical glitches](https://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-13.mp4) 5m22s
 + [An overview of github](https://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-14.mp4) 7m28s
 + [History on github and cloning a repo locally](https://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-15.mp4) 6m41s
-+ [VSCode and your project](https://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-16.mp4) 9m45s 
++ [VSCode and your project](https://southosullivan.com/gisc420/videos/conda-git-ide/gisc-420-2022-week-07-16.mp4) 9m45s
 
 ---
 
@@ -184,23 +184,23 @@ New! For 2021...
 Some glitches at the start with getting that WFS layer into Q. And the sound is only OK, I'm afraid...
 ### The python console and `pyqgis`
 + [The python console in QGIS and `pyqgis` the horror, the horror](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-01.m4v) (7:51)
-+ [Doing some odds and ends in the console](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-02.mp4) (6:35)
-+ [There is also an editor available... and why `pyqgis` is not very 'pythonic'](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-03.mp4) (6:52)
++ [Doing some odds and ends in the console](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-02.m4v) (6:35)
++ [There is also an editor available... and why `pyqgis` is not very 'pythonic'](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-03.m4v) (6:52)
 
 (Try `import this` in a python console.)
 
 ### Model designer
-+ [Answer to a question about whether a simpler API would be possible in some other language](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-04.mp4) (5:04)
-+ [Model designer intro and the sequence of operations for the polygon Voronoi model](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-05.mp4) (9:51)
-+ [Automating that workflow...](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-06.mp4) (6:17)
-+ [Models and generated code](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-07.mp4) (8:36)
-+ [Some limitations of visual model builders](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-08.mp4) (9:58)
++ [Answer to a question about whether a simpler API would be possible in some other language](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-04.m4v) (5:04)
++ [Model designer intro and the sequence of operations for the polygon Voronoi model](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-05.m4v) (9:51)
++ [Automating that workflow...](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-06.m4v) (6:17)
++ [Models and generated code](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-07.m4v) (8:36)
++ [Some limitations of visual model builders](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-08.m4v) (9:58)
 
 ### Use code!
-+ [Use code instead!](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-09.mp4) (4:21)
++ [Use code instead!](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-09.m4v) (4:21)
 
 ### Wrapping code in a model? No! Make a plugin
-+ [Could you wrap code in a model?](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-10.mp4) (2:57)
-+ [Digression about GTFS and the no. 29](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-11.mp4) (3:55)
-+ [Some example plugins](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-12.mp4) (7:08)
-+ [Reflections on sharing of avenue scripts and QGIS plugins, and final thoughts](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-13.mp4) (7:34)
++ [Could you wrap code in a model?](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-10.m4v) (2:57)
++ [Digression about GTFS and the no. 29](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-11.m4v) (3:55)
++ [Some example plugins](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-12.m4v) (7:08)
++ [Reflections on sharing of avenue scripts and QGIS plugins, and final thoughts](https://southosullivan.com/gisc420/videos/pyqgis/GISC-420-09-13.m4v) (7:34)

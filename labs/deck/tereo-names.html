@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>pydeck</title>
+        <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.13.0/mapbox-gl.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <script src='https://cdn.jsdelivr.net/npm/@deck.gl/jupyter-widget@~8.5.*/dist/index.js'></script>
+    <style>
+    body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#deck-map-container {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+#map {
+  pointer-events: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+}
+
+#deckgl-overlay {
+  z-index: 2;
+  background: none;
+}
+
+#deck-map-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+#deck-container {
+  width: 100vw;
+  height: 100vh;
+}
+    </style>
+  </head>
+  <body>
+    <div id="deck-container">
+    </div>
+  </body>
+  <script>
+    const jsonInput = {"initialViewState": {"bearing": 0, "latitude": -41, "longitude": 174, "maxZoom": 20, "pitch": 0, "zoom": 5}, "layers": [{"@@type": "TextLayer", "billboard": true, "characterSet": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ\u0101\u0113\u012b\u014d\u016b\u0100\u0112\u014c\u012a\u016a1234567890/ ", "data": "tnames.json", "fontFamily": "Times, serif", "getColor": "@@=reo > 0 ? [204, 0, 0] : [0, 0, 204]", "getPosition": "@@=[lng, lat]", "getSize": 1000, "getText": "@@=name", "id": "c4c7591e-9f82-4e08-9395-77b3ba2c3d3e", "opacity": 0.65, "pickable": true, "sizeMaxPixels": 32, "sizeUnits": "@@=meters"}], "mapProvider": "carto", "mapStyle": "https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json", "views": [{"@@type": "MapView", "controller": true}]};
+    const tooltip = true;
+    const customLibraries = null;
+
+    const deckInstance = createDeck({
+                  container: document.getElementById('deck-container'),
+      jsonInput,
+      tooltip,
+      customLibraries
+    });
+
+  </script>
+</html>
