@@ -1,4 +1,3 @@
-#### GISC 420 T2 2022
 # The 'big' assignment: ideas and scope
 ## A list of topic ideas
 Here are some topic ideas to consider and discuss. To begin, don't worry too much about *how*, think more about how much you are interested (or not) in each one. Alternatively think up an [idea of your own](#your-idea-here) to work on.

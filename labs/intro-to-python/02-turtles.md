@@ -1,4 +1,3 @@
-#### GISC 420 T1 2022
 # A different environment
 Exit the Python console with
 

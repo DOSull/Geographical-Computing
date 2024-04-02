@@ -1,4 +1,3 @@
-#### GISC 420 T1 2022
 # General instructions for the Labs
 We will be using some different tools as the course progresses. Follow the relevant instructions below for different platforms.
 
