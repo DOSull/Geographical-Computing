@@ -1,5 +1,5 @@
 # Geographical Computing
-These pages outline a one semester (36 contact hours) class in spatial analysis and modelling that was last taught at Victoria University of Wellington as GISC 420 in the first half of 2022.
+These pages outline a one semester (36 contact hours) class in python programming for geospatial that was last taught at Victoria University of Wellington as GISC 420 in the first half of 2022.
 
 I am still in the process of cleaning the materials up for potential conversion into training materials. For the time being the materials are provided _gratis_ with no warrant as to their accuracy as a guide to python programming for geospatial but you may still find them useful all the same!
 
